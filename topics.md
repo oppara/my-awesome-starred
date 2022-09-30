@@ -341,6 +341,7 @@
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
 
 ## homebrew 
 
