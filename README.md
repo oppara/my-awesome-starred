@@ -715,7 +715,7 @@
 - [ujihisa/mdv](https://github.com/ujihisa/mdv) - 
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 - [jugyo/termtter](https://github.com/jugyo/termtter) - moved to https://github.com/termtter/termtter
-- [gma/nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [banyan/config](https://github.com/banyan/config) - config file
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
