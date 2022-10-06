@@ -340,7 +340,6 @@
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
 
 ## homebrew 
@@ -482,7 +481,7 @@
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
-- [gma/nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## mobile 
@@ -1256,13 +1255,13 @@
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
-- [gma/nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## sass 
 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [gma/nesta](https://github.com/gma/nesta) - A lightweight CMS, implemented in Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
 
 ## scala 
 
