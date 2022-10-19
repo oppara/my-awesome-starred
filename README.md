@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
