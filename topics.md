@@ -7,6 +7,7 @@
 
 - [android](#android)
 - [api](#api)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [aws](#aws)
@@ -113,6 +114,10 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 
+## atom 
+
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
+
 ## automation 
 
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
@@ -175,6 +180,7 @@
 
 ## cli 
 
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -302,6 +308,7 @@
 
 ## go 
 
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [b4b4r07/blog](https://github.com/b4b4r07/blog) - A CLI tool for editing blog built by Hugo
 - [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
