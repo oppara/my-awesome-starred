@@ -537,7 +537,7 @@
 - [kaz29/FileFixture](https://github.com/kaz29/FileFixture) - FileFixture Plugin for CakePHP2.x
 - [yandod/cakephp-heroku-plugin](https://github.com/yandod/cakephp-heroku-plugin) - This Plugin helps reading configuration from heroku config vars.
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 - [kuzuha/Geography_JapanesePrefectures](https://github.com/kuzuha/Geography_JapanesePrefectures) - This module allows you to get information on Japanese Prefectures names. and region.
 - [d3y4n/instagraph](https://github.com/d3y4n/instagraph) - Instagram with ImageMagick & PHP
