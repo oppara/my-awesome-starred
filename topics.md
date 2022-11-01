@@ -1211,7 +1211,7 @@
 - [mpyw/EasyCrypt](https://github.com/mpyw/EasyCrypt) - A class that provides simple interface for decryptable encryption.
 - [whatthejeff/nyancat-phpunit-resultprinter](https://github.com/whatthejeff/nyancat-phpunit-resultprinter) - Nyan Cat result printer for PHPUnit
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 - [phpbrew/Onion](https://github.com/phpbrew/Onion) - Onion, The fast approach to build/bundle PEAR/PECL packages for PHP.
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
