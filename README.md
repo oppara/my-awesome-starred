@@ -479,13 +479,13 @@
 - [enomotodev/php-cs-fixer-commit](https://github.com/enomotodev/php-cs-fixer-commit) - Create commit of php-cs-fixer
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [aokazu/cakephp3_core_layer_pattern](https://github.com/aokazu/cakephp3_core_layer_pattern) - Example of applying core layer pattern to CakePHP3
-- [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP 3.x
+- [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP
 - [sadapon2008/mysql_collate](https://github.com/sadapon2008/mysql_collate) - 
 - [suin/php-cs-fixer-rules](https://github.com/suin/php-cs-fixer-rules) - [READ-ONLY] A Rule set for PHP-CS-Fixer mainly targeting PHP 7.1 or higher.
 - [todays-mitsui/fetch-progress-sample](https://github.com/todays-mitsui/fetch-progress-sample) - 
 - [kijtra/textdiff](https://github.com/kijtra/textdiff) - Simple text diff script
 - [ftngrn/qdmail](https://github.com/ftngrn/qdmail) - Qdmail series. Forked from spok's original library. (Qdmailシリーズのgithub版です。PHP5.6対応).
-- [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP 3.x
+- [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP
 - [kaihiro/optimistic-lock](https://github.com/kaihiro/optimistic-lock) - Optimistic Lock for CakePHP3
 - [hanhan1978/docker-laravel55-skelton](https://github.com/hanhan1978/docker-laravel55-skelton) - 
 - [tenkoma/tddbe-php](https://github.com/tenkoma/tddbe-php) - PHP implementation of "Test Driven Development: By Example (テスト駆動開発)"
