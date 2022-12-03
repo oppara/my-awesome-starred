@@ -242,7 +242,7 @@
 
 ## database 
 
-- [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP 3.x
+- [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP
 
 ## devops 
 
@@ -596,7 +596,7 @@
 - [pypypyo14/defaultvpc-tag](https://github.com/pypypyo14/defaultvpc-tag) - AWSアカウント作成時にデフォルトで存在するリソースにタグ付け(`{isDefault: true}`)するスクリプト
 - [adventar/adventar](https://github.com/adventar/adventar) - For all Adventars!
 - [aokazu/cakephp3_core_layer_pattern](https://github.com/aokazu/cakephp3_core_layer_pattern) - Example of applying core layer pattern to CakePHP3
-- [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP 3.x
+- [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP
 - [ot-nemoto/ses-forwarder](https://github.com/ot-nemoto/ses-forwarder) - :frog: SESで受信したメールを転送するサービス
 - [narikei/Charger-Information-for-Mac](https://github.com/narikei/Charger-Information-for-Mac) - 
 - [barnybug/cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53
