@@ -816,12 +816,12 @@
 - [motemen/gas-TaskCal](https://github.com/motemen/gas-TaskCal) - 
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
-- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A LDR inspired feed reader
+- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader that is inspired by Live Dwango Reader
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [evmar/webtreemap](https://github.com/evmar/webtreemap) - web-based treemap
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 
 ## Vim Script 
 
