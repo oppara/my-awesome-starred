@@ -651,7 +651,7 @@
 - [shin1x1/phpcon2017](https://github.com/shin1x1/phpcon2017) - 
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
 - [ko1/rubyhackchallenge](https://github.com/ko1/rubyhackchallenge) - 
-- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A LDR inspired feed reader
+- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader that is inspired by Live Dwango Reader
 - [okkez/redmine_full_text_search-benchmark](https://github.com/okkez/redmine_full_text_search-benchmark) - 
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
 - [hirokidaichi/guiflow](https://github.com/hirokidaichi/guiflow) - a text editor for ui flow
@@ -1121,7 +1121,7 @@
 - [alpicola/atomos](https://github.com/alpicola/atomos) - AtomPub based minimal bloging engine
 - [taberareloo/taberareloo](https://github.com/taberareloo/taberareloo) - Yet Another Tombloo on Chromium
 - [canada/PerlDocJp](https://github.com/canada/PerlDocJp) - This Web application let perldoc.jp Japanized pod document browsable and searchable just like search.cpan.org
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [syuhari/ImageBehavior](https://github.com/syuhari/ImageBehavior) - Behavior for CakePHP
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
