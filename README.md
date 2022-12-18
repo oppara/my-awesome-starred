@@ -816,7 +816,7 @@
 - [motemen/gas-TaskCal](https://github.com/motemen/gas-TaskCal) - 
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
-- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader that is inspired by Live Dwango Reader
+- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader inspired by Live Dwango Reader
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [evmar/webtreemap](https://github.com/evmar/webtreemap) - web-based treemap
