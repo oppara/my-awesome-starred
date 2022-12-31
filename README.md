@@ -452,6 +452,7 @@
 - [m4robb/one-millionth-tower](https://github.com/m4robb/one-millionth-tower) - 
 - [amachang/webkitd](https://github.com/amachang/webkitd) - Simple WebKit Server
 - [yuki-kimoto/mojolicious-guides-japanese](https://github.com/yuki-kimoto/mojolicious-guides-japanese) - Japanese localization of Mojolicious API documents
+- [perldoc-jp/module-pod-jp](https://github.com/perldoc-jp/module-pod-jp) - 日本語訳したモジュールをおく場所その2
 - [nakamuray/zsh-filter-select](https://github.com/nakamuray/zsh-filter-select) - filter and select item
 - [rsepulveda2/Twitter-Mobile](https://github.com/rsepulveda2/Twitter-Mobile) - A web based twitter client using jQuery Mobile and Twitter @anywhere
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -603,7 +604,6 @@
 - [dankogai/c-bucketsort](https://github.com/dankogai/c-bucketsort) - bucketsort - bucket sort that can be used for general purpose
 - [dann/p5-perl-metrics-lite](https://github.com/dann/p5-perl-metrics-lite) - Pluggable Perl Metrics System
 - [motemen/App-sn](https://github.com/motemen/App-sn) - Command-line Simplenote client
-- [perldoc-jp/module-pod-jp](https://github.com/perldoc-jp/module-pod-jp) - 日本語訳したモジュールをおく場所その2
 - [tyru/gittools](https://github.com/tyru/gittools) - 
 - [tobie/ua-parser](https://github.com/tobie/ua-parser) - A multi-language port of Browserscope's user agent parser.
 - [walf443/jsref](https://github.com/walf443/jsref) - offline javascript reference from CLI like cppref.  source is https://developer.mozilla.org/en/Core_JavaScript_1.5_Reference
