@@ -797,6 +797,7 @@
 
 ## TypeScript 
 
+- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 - [shuntaka9576/preview-asciidoc.nvim](https://github.com/shuntaka9576/preview-asciidoc.nvim) - :memo: preview asciidoc in real time!
 - [cocopon/vscode-iceberg-theme](https://github.com/cocopon/vscode-iceberg-theme) - Dark blue color theme for Visual Studio Code
