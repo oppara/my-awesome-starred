@@ -797,6 +797,7 @@
 
 ## TypeScript 
 
+- [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 - [shuntaka9576/preview-asciidoc.nvim](https://github.com/shuntaka9576/preview-asciidoc.nvim) - :memo: preview asciidoc in real time!
