@@ -19,6 +19,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -397,6 +398,10 @@
 ## Kotlin 
 
 - [kamedon/KTestCaseDSL](https://github.com/kamedon/KTestCaseDSL) - generate TestCase
+
+## Lua 
+
+- [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
 
 ## Makefile 
 
