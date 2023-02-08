@@ -88,6 +88,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [svelte](#svelte)
 - [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -1313,6 +1314,10 @@
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## svelte 
+
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
 
 ## swift 
 
