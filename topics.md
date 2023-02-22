@@ -1042,7 +1042,6 @@
 - [vim-scripts/monday](https://github.com/vim-scripts/monday) - Lets you use ctrl-a and ctrl-x on names of months and weekdays
 - [vim-scripts/sql_iabbr.vim](https://github.com/vim-scripts/sql_iabbr.vim) - Makes all your favorite SQL keywords uppercase automatically.
 - [vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim) - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
-- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [mozilla/doctorjs](https://github.com/mozilla/doctorjs) - A set of static analysis tools for JavaScript
 - [naberon/vim-cakehtml](https://github.com/naberon/vim-cakehtml) - cakephp templates syntax
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
