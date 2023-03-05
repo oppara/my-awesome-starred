@@ -61,6 +61,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [mac](#mac)
 - [macos](#macos)
 - [markdown](#markdown)
 - [mobile](#mobile)
@@ -476,6 +477,10 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 
+## mac 
+
+- [mitsuse/swim](https://github.com/mitsuse/swim) - A command line tool to switch the current input method by identifier for macOS.
+
 ## macos 
 
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.3 is built nightly.
@@ -677,7 +682,6 @@
 - [ryoppy/cool-peco](https://github.com/ryoppy/cool-peco) - peco utils. 便利なpecoを集約したい。
 - [onozaty/redmine-view-customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine
 - [mikiakira/php-simple-kanban](https://github.com/mikiakira/php-simple-kanban) - A web app that was inspired by Trello and cloned only the "Kanban" function with PHP
-- [mitsuse/swim](https://github.com/mitsuse/swim) - A command line tool to switch the current input method by identifier for macOS.
 - [trkbt10/mikan.js](https://github.com/trkbt10/mikan.js) - 機械学習を用いていない日本語改行問題へのソリューション
 - [nukorou/tenki_electron](https://github.com/nukorou/tenki_electron) - macでtenki.jpの天気をメニューバーに
 - [kintone-labs/jswatchdog](https://github.com/kintone-labs/jswatchdog) - Auto review tool for kintone JS customization.
