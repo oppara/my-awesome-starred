@@ -828,6 +828,7 @@
 
 ## Vim Script 
 
+- [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [yaasita/edit-slack.vim](https://github.com/yaasita/edit-slack.vim) - Open slack, like a file
 - [get-me-power/dotvim](https://github.com/get-me-power/dotvim) - my Vim's setting file
 - [mityu/vim-applescript](https://github.com/mityu/vim-applescript) - Vim utility scripts for AppleScript
