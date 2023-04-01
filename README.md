@@ -802,6 +802,7 @@
 
 ## TypeScript 
 
+- [vim-jp/ekiden](https://github.com/vim-jp/ekiden) - vim-jp記事執筆企画「駅伝」の管理リポジトリ
 - [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
