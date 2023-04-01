@@ -546,6 +546,7 @@
 
 ## others 
 
+- [vim-jp/ekiden](https://github.com/vim-jp/ekiden) - vim-jp記事執筆企画「駅伝」の管理リポジトリ
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
 - [yo-goto/zenn-public-repo](https://github.com/yo-goto/zenn-public-repo) - Zenn の無料記事用リポジトリ
 - [KushibikiMashu/at-coder-with-php](https://github.com/KushibikiMashu/at-coder-with-php) - AtCoderの問題をPHPで解く環境を構築します
