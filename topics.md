@@ -371,7 +371,7 @@
 ## html 
 
 - [erickzhao/static-html-webpack-boilerplate](https://github.com/erickzhao/static-html-webpack-boilerplate) - 🔮 modern tooling for old-school static webpage development
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
@@ -1218,7 +1218,7 @@
 - [suin/php-cs-fixer-rules](https://github.com/suin/php-cs-fixer-rules) - [READ-ONLY] A Rule set for PHP-CS-Fixer mainly targeting PHP 7.1 or higher.
 - [tenkoma/tddbe-php](https://github.com/tenkoma/tddbe-php) - PHP implementation of "Test Driven Development: By Example (テスト駆動開発)"
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [kaz29/serverless-azure-php-example](https://github.com/kaz29/serverless-azure-php-example) - Serverless Azure PHP Example
 - [ackintosh/snidel](https://github.com/ackintosh/snidel) - Snidel makes it easier for all PHP developers to work with parallel processing w/o any PECL extensions.
 - [dwightwatson/bootstrap-form](https://github.com/dwightwatson/bootstrap-form) - Bootstrap 3 form builder for Laravel
@@ -1266,7 +1266,7 @@
 
 ## react 
 
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 
 ## rest-api 
 
@@ -1323,7 +1323,7 @@
 
 ## svelte 
 
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 
 ## swift 
 
@@ -1396,7 +1396,7 @@
 - [mirumirumi/yourcat](https://github.com/mirumirumi/yourcat) - Repo for front-end of YourCat 🐾
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [GitHub30/vscode-remote-try-nuxt](https://github.com/GitHub30/vscode-remote-try-nuxt) - Nuxt.js sample project for trying out the VS Code Remote - Containers extension
-- [markuplint/markuplint](https://github.com/markuplint/markuplint) - A linter for all markup developers.
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 
 ## web 
 
