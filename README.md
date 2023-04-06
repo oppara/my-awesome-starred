@@ -276,7 +276,7 @@
 - [kayac/newbie-training](https://github.com/kayac/newbie-training) - 
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [gsmith85/SeuratJS](https://github.com/gsmith85/SeuratJS) - A Raphaël plugin for creating beautiful pointillized animations.
-- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
+- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [creativecouple/jquery-timing](https://github.com/creativecouple/jquery-timing) - a jQuery plugin that provides easy-to-use timing methods to write less and do more.
 - [dionyziz/canvas-tetris](https://github.com/dionyziz/canvas-tetris) - A 2D tetris game in HTML5 canvas
 - [paulmillr/ostio](https://github.com/paulmillr/ostio) - Your open-source talks place.
