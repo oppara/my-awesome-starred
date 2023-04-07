@@ -83,6 +83,7 @@
 - [react](#react)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
+- [rust](#rust)
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
@@ -1248,7 +1249,6 @@
 
 ## python 
 
-- [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [rcmdnk/homebrew-file](https://github.com/rcmdnk/homebrew-file) - Brewfile manager for  Homebrew
@@ -1285,6 +1285,10 @@
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
 - [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## rust 
+
+- [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
 
 ## sass 
 
