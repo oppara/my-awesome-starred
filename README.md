@@ -30,6 +30,7 @@
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [SCSS](#scss)
 - [Sass](#sass)
 - [Scala](#scala)
@@ -631,7 +632,6 @@
 
 ## Python 
 
-- [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
 - [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [YoshiiRyo1/aws-cost-saver](https://github.com/YoshiiRyo1/aws-cost-saver) - 
@@ -729,6 +729,10 @@
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [banyan/config](https://github.com/banyan/config) - config file
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
+
+## Rust 
+
+- [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
 
 ## SCSS 
 
