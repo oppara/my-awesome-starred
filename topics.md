@@ -29,6 +29,7 @@
 - [data](#data)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deno](#deno)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -246,6 +247,10 @@
 ## database 
 
 - [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP
+
+## deno 
+
+- [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 
 ## devops 
 
