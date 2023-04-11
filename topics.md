@@ -510,7 +510,7 @@
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## mobile 
@@ -625,7 +625,7 @@
 - [kijtra/textdiff](https://github.com/kijtra/textdiff) - Simple text diff script
 - [ikedaosushi/simple-url-copy](https://github.com/ikedaosushi/simple-url-copy) - A Chrome extension that help you to copy URL
 - [motemen/gas-TaskCal](https://github.com/motemen/gas-TaskCal) - 
-- [rascate/webpack4-boilerplate-static-separated](https://github.com/rascate/webpack4-boilerplate-static-separated) - 
+- [araj-dev/webpack4-boilerplate-static-separated](https://github.com/araj-dev/webpack4-boilerplate-static-separated) - 
 - [ftngrn/qdmail](https://github.com/ftngrn/qdmail) - Qdmail series. Forked from spok's original library. (Qdmailシリーズのgithub版です。PHP5.6対応).
 - [ginpei/devtools-z-index](https://github.com/ginpei/devtools-z-index) - Stop `z-index: 999999` !!
 - [747/vsselector](https://github.com/747/vsselector) - Variation Selector Selector app (WIP)
@@ -1288,7 +1288,7 @@
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## rust 
@@ -1298,7 +1298,7 @@
 ## sass 
 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 
 ## scala 
 
