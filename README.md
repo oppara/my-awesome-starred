@@ -223,7 +223,7 @@
 - [akameco/twada-stand](https://github.com/akameco/twada-stand) - テストを書いてない書いてない人の前に例のスタンドが現れます
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [erickzhao/static-html-webpack-boilerplate](https://github.com/erickzhao/static-html-webpack-boilerplate) - 🔮 modern tooling for old-school static webpage development
-- [rascate/webpack4-boilerplate-static-separated](https://github.com/rascate/webpack4-boilerplate-static-separated) - 
+- [araj-dev/webpack4-boilerplate-static-separated](https://github.com/araj-dev/webpack4-boilerplate-static-separated) - 
 - [1000ch/pinput](https://github.com/1000ch/pinput) - Light-weight chrome extension for Pinboard.
 - [ginpei/devtools-z-index](https://github.com/ginpei/devtools-z-index) - Stop `z-index: 999999` !!
 - [marcosesperon/jquery.rowspanizer.js](https://github.com/marcosesperon/jquery.rowspanizer.js) - Dynamic rowspan based on the content of the table
@@ -725,7 +725,7 @@
 - [ujihisa/mdv](https://github.com/ujihisa/mdv) - 
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 - [jugyo/termtter](https://github.com/jugyo/termtter) - moved to https://github.com/termtter/termtter
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS, built using Sinatra
+- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [banyan/config](https://github.com/banyan/config) - config file
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
