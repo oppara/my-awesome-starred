@@ -259,6 +259,7 @@
 
 ## docker 
 
+- [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [GitHub30/vscode-remote-try-nuxt](https://github.com/GitHub30/vscode-remote-try-nuxt) - Nuxt.js sample project for trying out the VS Code Remote - Containers extension
 - [ryuzee/SlideHub](https://github.com/ryuzee/SlideHub) - SlideHub is an Open Source Slide Sharing Application for Azure / AWS
 
@@ -1374,6 +1375,7 @@
 
 ## vim 
 
+- [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
