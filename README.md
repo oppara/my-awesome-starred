@@ -811,6 +811,7 @@
 
 ## TypeScript 
 
+- [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
