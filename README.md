@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [koki-develop/sheep](https://github.com/koki-develop/sheep) - 🐑 Sleep with Sheep.
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
