@@ -559,6 +559,7 @@
 
 ## others 
 
+- [koki-develop/sheep](https://github.com/koki-develop/sheep) - 🐑 Sleep with Sheep.
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [vim-jp/ekiden](https://github.com/vim-jp/ekiden) - vim-jp記事執筆企画「駅伝」の管理リポジトリ
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
