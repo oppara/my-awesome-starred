@@ -161,7 +161,7 @@
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
 - [k1LoW/execop](https://github.com/k1LoW/execop) - ExeCop is a checker that check commands and environment variables before execute command.
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 
 ## bootstrap 
 
@@ -363,7 +363,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
@@ -1336,7 +1336,7 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## svelte 
