@@ -778,7 +778,7 @@
 - [tokuhirom/plenv](https://github.com/tokuhirom/plenv) - Perl binary manager
 - [paulsm/bashtime](https://github.com/paulsm/bashtime) - A bash script to display an analog time in your command prompt on OS X
 - [zarigani/dropbox_diff](https://github.com/zarigani/dropbox_diff) - Diff revision files in Dropbox.
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [rosylilly/git-tasukete](https://github.com/rosylilly/git-tasukete) - gitで助けて欲しい時に
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [sickill/git-dude](https://github.com/sickill/git-dude) - Git commit notifier
