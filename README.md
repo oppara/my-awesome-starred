@@ -391,7 +391,7 @@
 - [up/mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [mustardamus/brosho-plugin](https://github.com/mustardamus/brosho-plugin) - Design your Markup in the Browser with this jQuery Plugin.
-- [tobytailor/gordon](https://github.com/tobytailor/gordon) - An open source Flash™ runtime written in pure JavaScript
+- [tobitailor/gordon](https://github.com/tobitailor/gordon) - An open source Flash™ runtime written in pure JavaScript
 - [taberareloo/taberareloo](https://github.com/taberareloo/taberareloo) - Yet Another Tombloo on Chromium
 - [eduardolundgren/jquery-simulate](https://github.com/eduardolundgren/jquery-simulate) - jQuery Simulate is a plugin to simulate browser mouse and keyboard real events
 - [rewish/jQuery.calendar](https://github.com/rewish/jQuery.calendar) - "Simple Calendar" plugin for jQuery.
@@ -812,6 +812,7 @@
 
 ## TypeScript 
 
+- [ashizaki/aws-presigned-url-upload-cdk](https://github.com/ashizaki/aws-presigned-url-upload-cdk) - 
 - [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
