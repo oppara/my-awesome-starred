@@ -559,6 +559,7 @@
 
 ## others 
 
+- [ashizaki/aws-presigned-url-upload-cdk](https://github.com/ashizaki/aws-presigned-url-upload-cdk) - 
 - [koki-develop/sheep](https://github.com/koki-develop/sheep) - 🐑 Sleep with Sheep.
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [vim-jp/ekiden](https://github.com/vim-jp/ekiden) - vim-jp記事執筆企画「駅伝」の管理リポジトリ
@@ -1141,7 +1142,7 @@
 - [xenoterracide/sql.vim](https://github.com/xenoterracide/sql.vim) - improve coverage of reserved words for sql files
 - [xenoterracide/css.vim](https://github.com/xenoterracide/css.vim) - add css3 and html5 support to css.vim
 - [xenoterracide/html.vim](https://github.com/xenoterracide/html.vim) - adding HTML5 support to vims default html.vim file
-- [tobytailor/gordon](https://github.com/tobytailor/gordon) - An open source Flash™ runtime written in pure JavaScript
+- [tobitailor/gordon](https://github.com/tobitailor/gordon) - An open source Flash™ runtime written in pure JavaScript
 - [alpicola/atomos](https://github.com/alpicola/atomos) - AtomPub based minimal bloging engine
 - [taberareloo/taberareloo](https://github.com/taberareloo/taberareloo) - Yet Another Tombloo on Chromium
 - [canada/PerlDocJp](https://github.com/canada/PerlDocJp) - This Web application let perldoc.jp Japanized pod document browsable and searchable just like search.cpan.org
