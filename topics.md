@@ -115,7 +115,7 @@
 
 ## android 
 
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 
 ## api 
 
@@ -370,7 +370,7 @@
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 
 ## homebrew 
@@ -414,7 +414,7 @@
 
 ## ios 
 
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 
 ## java 
 
@@ -446,7 +446,7 @@
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [qunitjs/qunit](https://github.com/qunitjs/qunit) - 🔮 An easy-to-use JavaScript unit testing framework.
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 
@@ -522,7 +522,7 @@
 
 ## mobile 
 
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 
 ## monitoring 
 
@@ -550,7 +550,7 @@
 
 - [januswel/node-template](https://github.com/januswel/node-template) - template repo for Node.js project
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
-- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 
 ## opencv 
