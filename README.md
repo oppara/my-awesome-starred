@@ -75,7 +75,6 @@
 
 ## CSS 
 
-- [lotabout/very-simple](https://github.com/lotabout/very-simple) - A very simple theme for hexo
 - [ianrogren/jquery-backDetect](https://github.com/ianrogren/jquery-backDetect) - jQuery backDetect is a jQuery plugin that is used to determine when a user clicks the back button and fire a callback function.
 - [Project-CleverWeb/LastAutoIndex](https://github.com/Project-CleverWeb/LastAutoIndex) - 
 - [harasou/slides](https://github.com/harasou/slides) - 
@@ -737,6 +736,7 @@
 
 ## SCSS 
 
+- [lotabout/very-simple](https://github.com/lotabout/very-simple) - A very simple theme for hexo
 - [windyakin/Honoka](https://github.com/windyakin/Honoka) - Honoka is one of the original Bootstrap theme.
 - [yuya-matsushima/middleman-slim](https://github.com/yuya-matsushima/middleman-slim) - A Middleman template using Slim.
 
