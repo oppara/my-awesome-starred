@@ -369,7 +369,6 @@
 - [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [mozilla/doctorjs](https://github.com/mozilla/doctorjs) - A set of static analysis tools for JavaScript
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [tapmodo/Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop - The Javascript Image Cropping Engine
 - [ivanvanderbyl/ui-progress-bar](https://github.com/ivanvanderbyl/ui-progress-bar) - Pure CSS Progress Bar
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
@@ -787,6 +786,7 @@
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [zsh-users/zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
 - [tfmagician/setup_scripts](https://github.com/tfmagician/setup_scripts) - Scripts to setup some apps for linux server.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [bleis-tift/Git-Hooks](https://github.com/bleis-tift/Git-Hooks) - Redmine等のITS/BTSとGitとCIツールを使った開発を支援するためのフックスクリプト集・・・になる予定
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii &lt;y-fujii at mimosa-pudica.net&gt;
