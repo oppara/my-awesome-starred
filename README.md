@@ -165,7 +165,7 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [mattn/jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nicksieger/jsonpretty](https://github.com/nicksieger/jsonpretty) - Command-line JSON pretty-printer
 
 ## HTML 
