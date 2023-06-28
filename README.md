@@ -177,7 +177,6 @@
 - [nomnux/vaddy-privatenet-docker](https://github.com/nomnux/vaddy-privatenet-docker) - PrivateNet 版 VAddy(https://github.com/vaddy/go-vaddy)を Docker コンテナとして実行します。
 - [MichinariNukazawa/TofuFont](https://github.com/MichinariNukazawa/TofuFont) - 
 - [nukorou/tenki_electron](https://github.com/nukorou/tenki_electron) - macでtenki.jpの天気をメニューバーに
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [kohkimakimoto/getcomposer.org_doc_jp](https://github.com/kohkimakimoto/getcomposer.org_doc_jp) - Composerのドキュメント日本語訳
 - [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
@@ -258,6 +257,7 @@
 - [harisenbon/autokana](https://github.com/harisenbon/autokana) - Library for automatically rendering Furigana for inputted Japanese Text
 - [masuidrive/miyamoto](https://github.com/masuidrive/miyamoto) - Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
 - [chris4403/WikiTextConverter](https://github.com/chris4403/WikiTextConverter) - 
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [rakuten-frontend/grunt-appdmg](https://github.com/rakuten-frontend/grunt-appdmg) - Grunt plugin for generating Mac OS X DMG-images.
 - [moznion/location-util](https://github.com/moznion/location-util) - Utilities of location (URL) for browser and node. It has no dependencies.
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
