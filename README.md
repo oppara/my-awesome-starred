@@ -813,6 +813,7 @@
 
 ## TypeScript 
 
+- [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [ashizaki/aws-presigned-url-upload-cdk](https://github.com/ashizaki/aws-presigned-url-upload-cdk) - 
 - [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
