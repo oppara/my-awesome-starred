@@ -19,6 +19,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -399,6 +400,10 @@
 - [dknight/jQuery-Notify-bar](https://github.com/dknight/jQuery-Notify-bar) - Twitter like notify bar
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
+
+## Jupyter Notebook 
+
+- [tomomano/learn-aws-by-coding](https://github.com/tomomano/learn-aws-by-coding) - コードで学ぶAWS入門
 
 ## Kotlin 
 
