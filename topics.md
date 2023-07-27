@@ -562,6 +562,7 @@
 
 ## others 
 
+- [tomomano/learn-aws-by-coding](https://github.com/tomomano/learn-aws-by-coding) - コードで学ぶAWS入門
 - [yheihei/wp-docker-template](https://github.com/yheihei/wp-docker-template) - Dockerを使ったWordPress環境をビルドスクリプト一発で作る
 - [braveryk7/WordPress-PHPUnit-use-wp-env-sample](https://github.com/braveryk7/WordPress-PHPUnit-use-wp-env-sample) - 
 - [ashizaki/aws-presigned-url-upload-cdk](https://github.com/ashizaki/aws-presigned-url-upload-cdk) - 
