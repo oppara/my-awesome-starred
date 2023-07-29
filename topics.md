@@ -683,7 +683,7 @@
 - [shin1x1/phpcon2017](https://github.com/shin1x1/phpcon2017) - 
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
 - [ko1/rubyhackchallenge](https://github.com/ko1/rubyhackchallenge) - 
-- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader inspired by Live Dwango Reader
+- [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader like LDR
 - [okkez/redmine_full_text_search-benchmark](https://github.com/okkez/redmine_full_text_search-benchmark) - 
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
 - [hirokidaichi/guiflow](https://github.com/hirokidaichi/guiflow) - a text editor for ui flow
