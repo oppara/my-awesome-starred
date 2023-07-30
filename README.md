@@ -445,7 +445,6 @@
 
 ## Others 
 
-- [yo-goto/zenn-public-repo](https://github.com/yo-goto/zenn-public-repo) - Zenn の無料記事用リポジトリ
 - [k1LoW/octocovs](https://github.com/k1LoW/octocovs) - Code metrics and badges of my open source projects using octocov central mode
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
@@ -826,6 +825,7 @@
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
+- [yo-goto/zenn-public-repo](https://github.com/yo-goto/zenn-public-repo) - Zenn の無料記事用リポジトリ
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 - [shuntaka9576/preview-asciidoc.nvim](https://github.com/shuntaka9576/preview-asciidoc.nvim) - :memo: preview asciidoc in real time!
 - [cocopon/vscode-iceberg-theme](https://github.com/cocopon/vscode-iceberg-theme) - Dark blue color theme for Visual Studio Code
