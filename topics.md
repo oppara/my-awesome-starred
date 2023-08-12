@@ -918,7 +918,7 @@
 - [hpneo/gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
 - [suminb/readown](https://github.com/suminb/readown) - Readown is a Markdown reader for Mac OS X
 - [donayama/JComiViewer](https://github.com/donayama/JComiViewer) - J-Comi **unofficial** Viewer with Titanium Mobile
-- [sickill/git-dude](https://github.com/sickill/git-dude) - Git commit notifier
+- [ku1ik/git-dude](https://github.com/ku1ik/git-dude) - Git commit notifier
 - [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
 - [rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress](https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress) - CSS toolkit from Twitter for use as a WordPress theme
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
