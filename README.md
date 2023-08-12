@@ -786,7 +786,7 @@
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [rosylilly/git-tasukete](https://github.com/rosylilly/git-tasukete) - gitで助けて欲しい時に
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
-- [sickill/git-dude](https://github.com/sickill/git-dude) - Git commit notifier
+- [ku1ik/git-dude](https://github.com/ku1ik/git-dude) - Git commit notifier
 - [clear-code/zsh.d](https://github.com/clear-code/zsh.d) - Zsh configurations
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
