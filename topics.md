@@ -1232,6 +1232,7 @@
 
 ## php 
 
+- [snow-actions/php-ast-changed](https://github.com/snow-actions/php-ast-changed) - Check if PHP AST have been changed in a pull request
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.3. PHP 8.3 is built nightly.
 - [enomotodev/php-cs-fixer-commit](https://github.com/enomotodev/php-cs-fixer-commit) - Create commit of php-cs-fixer
