@@ -132,8 +132,8 @@
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
-- [b4b4r07/blog](https://github.com/b4b4r07/blog) - A CLI tool for editing blog built by Hugo
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
+- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
@@ -153,7 +153,7 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
-- [b4b4r07/gist](https://github.com/b4b4r07/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub action
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
