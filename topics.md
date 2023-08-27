@@ -192,12 +192,12 @@
 ## cli 
 
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [b4b4r07/gist](https://github.com/b4b4r07/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -331,12 +331,12 @@
 ## go 
 
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
-- [b4b4r07/blog](https://github.com/b4b4r07/blog) - A CLI tool for editing blog built by Hugo
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
+- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [b4b4r07/gist](https://github.com/b4b4r07/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -345,7 +345,7 @@
 
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
-- [b4b4r07/blog](https://github.com/b4b4r07/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
@@ -353,7 +353,7 @@
 - [shin1x1/rerun](https://github.com/shin1x1/rerun) - A tool that automatically restart a exited commands
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [a-know/grass-graph](https://github.com/a-know/grass-graph) - PNG Generator of GitHub Public Contribution Graph
-- [b4b4r07/gist](https://github.com/b4b4r07/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub action
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
@@ -1223,7 +1223,7 @@
 
 ## package-manager 
 
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 
 ## perl 
