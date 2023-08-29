@@ -491,7 +491,7 @@
 - [tutida/Pack](https://github.com/tutida/Pack) - Cakephp3  variables in JS
 - [whiteCcinn/husky-php](https://github.com/whiteCcinn/husky-php) - Git hooks made easy!! 🎉PHP is combined with composer to implement functionality similar to js's NPM module husky
 - [enomotodev/php-cs-fixer-commit](https://github.com/enomotodev/php-cs-fixer-commit) - Create commit of php-cs-fixer
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [aokazu/cakephp3_core_layer_pattern](https://github.com/aokazu/cakephp3_core_layer_pattern) - Example of applying core layer pattern to CakePHP3
 - [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP
 - [sadapon2008/mysql_collate](https://github.com/sadapon2008/mysql_collate) - 
