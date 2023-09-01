@@ -267,6 +267,7 @@
 ## documentation 
 
 - [vim-jp/vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) - A project which translate Vim documents into Japanese.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 
 ## electron 
 
@@ -518,6 +519,7 @@
 - [rhysd/vim-gfm-syntax](https://github.com/rhysd/vim-gfm-syntax) - GitHub Flavored Markdown syntax highlight extension for Vim
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -1126,7 +1128,6 @@
 - [ichikaway/xformHelper](https://github.com/ichikaway/xformHelper) - extends cakephp form helper.
 - [reinh/vim-makegreen](https://github.com/reinh/vim-makegreen) - MakeGreen runs make and shows a red or green message bar for success/failure. Speeds the red-green-refactor cycle!
 - [azoff/overscroll](https://github.com/azoff/overscroll) - Touch scrolling for the browser
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [kana/vim-operator-replace](https://github.com/kana/vim-operator-replace) - Vim plugin: Operator to replace text with register content
 - [kana/vim-metarw-git](https://github.com/kana/vim-metarw-git) - Vim plugin: metarw scheme for git repository
 - [marutanm/cocoa.vim](https://github.com/marutanm/cocoa.vim) - Vim plugin for Cocoa/Objective-C development.
@@ -1304,6 +1305,7 @@
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
