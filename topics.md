@@ -584,7 +584,7 @@
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
 - [fujimura/git-gsub](https://github.com/fujimura/git-gsub) - A Git subcommand to do gsub in a repository
 - [kamedon/KTestCaseDSL](https://github.com/kamedon/KTestCaseDSL) - generate TestCase
-- [furiko/aws-cost-notify-to-slack](https://github.com/furiko/aws-cost-notify-to-slack) - 
+- [fumontr/aws-cost-notify-to-slack](https://github.com/fumontr/aws-cost-notify-to-slack) - 
 - [shin1x1/domain-modeling-with-php](https://github.com/shin1x1/domain-modeling-with-php) - 
 - [yaasita/edit-slack.vim](https://github.com/yaasita/edit-slack.vim) - Open slack, like a file
 - [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
