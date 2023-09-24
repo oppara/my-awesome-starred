@@ -139,7 +139,7 @@
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
 - [fujimura/git-gsub](https://github.com/fujimura/git-gsub) - A Git subcommand to do gsub in a repository
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
-- [furiko/aws-cost-notify-to-slack](https://github.com/furiko/aws-cost-notify-to-slack) - 
+- [fumontr/aws-cost-notify-to-slack](https://github.com/fumontr/aws-cost-notify-to-slack) - 
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
 - [inabajunmr/anyconf](https://github.com/inabajunmr/anyconf) - You never need to google file path for any tools configuration.
 - [urawa72/pqlt](https://github.com/urawa72/pqlt) - PartiQL TUI tool
