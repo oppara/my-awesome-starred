@@ -697,7 +697,7 @@
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [hotchpotch/advent-calendar2readlists](https://github.com/hotchpotch/advent-calendar2readlists) - 
-- [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - 
+- [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - inline issue manager
 - [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - Vagrant plugin that integrates serverspec
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [shin1x1/vagrant-phpenv-phpbuild](https://github.com/shin1x1/vagrant-phpenv-phpbuild) - Vagrant / Chef files for PHP Server(phpenv and phpbuild, nginx)
