@@ -805,7 +805,7 @@
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [hotchpotch/advent-calendar2readlists](https://github.com/hotchpotch/advent-calendar2readlists) - 
 - [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Front-end Tooling Book
-- [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - 
+- [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - inline issue manager
 - [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - Vagrant plugin that integrates serverspec
 - [phpmentors-jp/codeiq-greeter-php](https://github.com/phpmentors-jp/codeiq-greeter-php) - 
 - [pchw/backbone-event-logger](https://github.com/pchw/backbone-event-logger) - Backbone event logger
