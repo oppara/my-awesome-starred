@@ -183,7 +183,7 @@
 - [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [blueimp/Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
-- [srirangan/notifer.js](https://github.com/srirangan/notifer.js) - Not Actively Maintained - Javascript library for Gnome / Growl type non-blocking notifications
+- [sri-rang/notifer.js](https://github.com/sri-rang/notifer.js) - Not Actively Maintained - Javascript library for Gnome / Growl type non-blocking notifications
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
