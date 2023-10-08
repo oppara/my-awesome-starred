@@ -907,7 +907,7 @@
 - [aterrien/jQuery-Knob](https://github.com/aterrien/jQuery-Knob) - Nice, downward compatible, touchable, jQuery dial
 - [sorah/config](https://github.com/sorah/config) - config
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
-- [srirangan/notifer.js](https://github.com/srirangan/notifer.js) - Not Actively Maintained - Javascript library for Gnome / Growl type non-blocking notifications
+- [sri-rang/notifer.js](https://github.com/sri-rang/notifer.js) - Not Actively Maintained - Javascript library for Gnome / Growl type non-blocking notifications
 - [m4robb/one-millionth-tower](https://github.com/m4robb/one-millionth-tower) - 
 - [ujihisa/quicklearn](https://github.com/ujihisa/quicklearn) - A quickrun plugin to show intermediate codes
 - [inuyaksa/jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll) - nicescroll plugin for jquery - scrollbars like iphone/ipad
