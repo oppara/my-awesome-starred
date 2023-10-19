@@ -79,7 +79,6 @@
 - [ianrogren/jquery-backDetect](https://github.com/ianrogren/jquery-backDetect) - jQuery backDetect is a jQuery plugin that is used to determine when a user clicks the back button and fire a callback function.
 - [Project-CleverWeb/LastAutoIndex](https://github.com/Project-CleverWeb/LastAutoIndex) - 
 - [harasou/slides](https://github.com/harasou/slides) - 
-- [burnworks/burnworks-guidelines](https://github.com/burnworks/burnworks-guidelines) - Burnworks Inc. web development guideline.
 - [Nikesh/Pie-Menu](https://github.com/Nikesh/Pie-Menu) - Simple configurable Path Menu written in Jquery and CSS3
 - [freshtilledsoil/champagne](https://github.com/freshtilledsoil/champagne) - A jQuery plugin to randomize the display of objects in a grid
 - [erskinedesign/ed.gridpak](https://github.com/erskinedesign/ed.gridpak) - The responsive grid generator.
@@ -180,6 +179,7 @@
 - [MichinariNukazawa/TofuFont](https://github.com/MichinariNukazawa/TofuFont) - 
 - [nukorou/tenki_electron](https://github.com/nukorou/tenki_electron) - macでtenki.jpの天気をメニューバーに
 - [kohkimakimoto/getcomposer.org_doc_jp](https://github.com/kohkimakimoto/getcomposer.org_doc_jp) - Composerのドキュメント日本語訳
+- [burnworks/burnworks-guidelines](https://github.com/burnworks/burnworks-guidelines) - Burnworks Inc. web development guideline.
 - [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [blueimp/Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
