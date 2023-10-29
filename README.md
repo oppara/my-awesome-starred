@@ -155,7 +155,7 @@
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
-- [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub action
+- [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [mattn/go-oci8](https://github.com/mattn/go-oci8) - Oracle driver for Go using database/sql
 - [acidlemon/mirage](https://github.com/acidlemon/mirage) - docker front end & reverse proxy for development
