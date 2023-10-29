@@ -199,6 +199,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+- [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
@@ -355,7 +356,7 @@
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [a-know/grass-graph](https://github.com/a-know/grass-graph) - PNG Generator of GitHub Public Contribution Graph
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
-- [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub action
+- [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 
