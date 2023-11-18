@@ -93,6 +93,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swift](#swift)
 - [terminal](#terminal)
@@ -1357,6 +1358,11 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## sqlite 
+
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [jbroadway/elefant](https://github.com/jbroadway/elefant) - Elefant, the refreshingly simple PHP CMS and web framework.
 
 ## svelte 
 
