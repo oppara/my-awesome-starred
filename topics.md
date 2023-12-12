@@ -428,6 +428,7 @@
 
 ## javascript 
 
+- [stevecat/table-magic](https://github.com/stevecat/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [erickzhao/static-html-webpack-boilerplate](https://github.com/erickzhao/static-html-webpack-boilerplate) - 🔮 modern tooling for old-school static webpage development
@@ -516,6 +517,7 @@
 
 ## markdown 
 
+- [stevecat/table-magic](https://github.com/stevecat/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
