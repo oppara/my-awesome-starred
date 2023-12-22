@@ -402,7 +402,7 @@
 - [thorikawa/FireMobileSimulator](https://github.com/thorikawa/FireMobileSimulator) - Firefox add-on to simulate smart phone and feature phones in Japan
 - [qunitjs/qunit](https://github.com/qunitjs/qunit) - 🔮 An easy-to-use JavaScript unit testing framework.
 - [dknight/jQuery-Notify-bar](https://github.com/dknight/jQuery-Notify-bar) - Twitter like notify bar
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 
 ## Jupyter Notebook 
