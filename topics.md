@@ -958,6 +958,7 @@
 - [lrsjng/jquery-fracs](https://github.com/lrsjng/jquery-fracs) - jQuery plugin to determine the visible fractions of HTML elements.
 - [h5bp/html5please](https://github.com/h5bp/html5please) - Graded Feature Support: Look up web technologies and find out if they are ready for use.
 - [rudyrichter/GrowlMail](https://github.com/rudyrichter/GrowlMail) - the new home for GrowlMail
+- [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [s-aska/7kai-Tasks](https://github.com/s-aska/7kai-Tasks) - Social Task Management Tool.
 - [xdebug/xdebug](https://github.com/xdebug/xdebug) - Xdebug — Step Debugger and Debugging Aid for PHP
 - [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable t
