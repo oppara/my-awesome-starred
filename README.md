@@ -321,6 +321,7 @@
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [lrsjng/jquery-fracs](https://github.com/lrsjng/jquery-fracs) - jQuery plugin to determine the visible fractions of HTML elements.
 - [h5bp/html5please](https://github.com/h5bp/html5please) - Graded Feature Support: Look up web technologies and find out if they are ready for use.
+- [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [Robdel12/DropKick](https://github.com/Robdel12/DropKick) - A JavaScript plugin for creating beautiful, accessible, and painless custom dropdowns.
 - [s-aska/7kai-Tasks](https://github.com/s-aska/7kai-Tasks) - Social Task Management Tool.
 - [wakaba/migemojs](https://github.com/wakaba/migemojs) - a JavaScript implementation of Migemo
