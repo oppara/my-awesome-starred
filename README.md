@@ -308,7 +308,7 @@
 - [visionmedia/uikit](https://github.com/visionmedia/uikit) - UIKit - modern ui components for the modern web
 - [hpneo/gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
 - [donayama/JComiViewer](https://github.com/donayama/JComiViewer) - J-Comi **unofficial** Viewer with Titanium Mobile
-- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+- [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - DEPRECATED - A HTML5/JavaScript multiplayer game experiment
 - [naoya/HBFav](https://github.com/naoya/HBFav) - Hatena Bookmark "Favorite" Reader
 - [misoproject/dataset](https://github.com/misoproject/dataset) - JavaScript library that makes managing the data behind client-side visualisations easy
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
