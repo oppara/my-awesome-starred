@@ -104,6 +104,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -712,7 +713,6 @@
 - [mpyw-junks/coutte](https://github.com/mpyw-junks/coutte) - Yet another asynchronous scraper based on mpyw/co.
 - [miya0001/simple-map](https://github.com/miya0001/simple-map) - Display Google Map Shortcode for WordPress
 - [mollifier/anyframe](https://github.com/mollifier/anyframe) - peco/percol/fzf wrapper plugin for zsh
-- [akabekobeko/examples-web-app](https://github.com/akabekobeko/examples-web-app) - Examples of web applications and tools.
 - [ryoppy/cool-peco](https://github.com/ryoppy/cool-peco) - peco utils. 便利なpecoを集約したい。
 - [onozaty/redmine-view-customize](https://github.com/onozaty/redmine-view-customize) - View customize plugin for Redmine
 - [mikiakira/php-simple-kanban](https://github.com/mikiakira/php-simple-kanban) - A web app that was inspired by Trello and cloned only the "Kanban" function with PHP
@@ -1452,6 +1452,11 @@
 - [zk-phi/MEGAMOJI](https://github.com/zk-phi/MEGAMOJI) - Create animoji easily
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
+
+## web-development 
+
+- [akabekobeko/examples-web-app](https://github.com/akabekobeko/examples-web-app) - Examples of web applications and tools.
+- [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 
 ## webpack 
 
