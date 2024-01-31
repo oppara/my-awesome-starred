@@ -609,7 +609,6 @@
 - [mcurry/interactive](https://github.com/mcurry/interactive) - Custom panel for the CakePHP DebugKit allowing for interactive sessions with your app
 - [slywalker/tool_kit](https://github.com/slywalker/tool_kit) - CakePHP Tool Plugin
 - [sofadesign/limonade](https://github.com/sofadesign/limonade) - a PHP micro-framework
-- [spriebsch/phpca](https://github.com/spriebsch/phpca) - Experimental static code analyzer for PHP
 - [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
 - [mariuswilms/media](https://github.com/mariuswilms/media) - CakePHP 1.3 plugin enabling transfer/manipulation/embedding of files in 23 ways.
 
