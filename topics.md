@@ -1197,7 +1197,6 @@
 - [slywalker/tool_kit](https://github.com/slywalker/tool_kit) - CakePHP Tool Plugin
 - [thinca/vim-template](https://github.com/thinca/vim-template) - Simple and flexible template engine.
 - [sofadesign/limonade](https://github.com/sofadesign/limonade) - a PHP micro-framework
-- [spriebsch/phpca](https://github.com/spriebsch/phpca) - Experimental static code analyzer for PHP
 - [miyagawa/github-growler](https://github.com/miyagawa/github-growler) - Growl github updates
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [nicksieger/jsonpretty](https://github.com/nicksieger/jsonpretty) - Command-line JSON pretty-printer
