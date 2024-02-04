@@ -717,7 +717,6 @@
 - [jugyo/earthquake](https://github.com/jugyo/earthquake) - Twitter terminal client with streaming API support.
 - [hotsh/rstat.us](https://github.com/hotsh/rstat.us) - Simple microblogging network based on the ostatus protocol.
 - [ymrl/kanachu](https://github.com/ymrl/kanachu) - 神奈中バスの時刻表を取得したりする
-- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [technoweenie/emoji-css-builder](https://github.com/technoweenie/emoji-css-builder) - Quick Ruby rake task for generating CSS and tiled image for displaying emoji in browsers.
 - [nhabit/code-slide](https://github.com/nhabit/code-slide) - Code-slide helps you present code and/or run training courses that focus on code-development.
 - [TrinityT/cakephp_cap_recipe](https://github.com/TrinityT/cakephp_cap_recipe) - Capistrano Deploy Recipe for CakePHP
