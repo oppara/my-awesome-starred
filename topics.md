@@ -1030,6 +1030,7 @@
 - [jyr/MNPP](https://github.com/jyr/MNPP) - Mac + Nginx + Percona + PHP a high performance web server in a one-click installer
 - [perldoc-jp/translation](https://github.com/perldoc-jp/translation) - 日本語訳したドキュメントをおく場所
 - [nakamuray/zsh-filter-select](https://github.com/nakamuray/zsh-filter-select) - filter and select item
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [mattn/specterjs](https://github.com/mattn/specterjs) - SpecterJS is a minimalistic, headless, WebKit-based, JavaScript-driven tool.
 - [keithclark/selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 - [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
