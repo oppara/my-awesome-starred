@@ -809,7 +809,7 @@
 
 ## Swift 
 
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [YusukeHosonuma/xcode-open](https://github.com/YusukeHosonuma/xcode-open) - Open Xcode in terminal (with specify version)
@@ -926,7 +926,6 @@
 - [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [kmnk/vim-unite-svn](https://github.com/kmnk/vim-unite-svn) - unite source to use simple svn commands
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
-- [erocpil/ManShow](https://github.com/erocpil/ManShow) - personal vim configuration
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [thinca/vim-localrc](https://github.com/thinca/vim-localrc) - Enable configuration file of each directory.
 - [anyakichi/vim-surround](https://github.com/anyakichi/vim-surround) - surround.vim: quoting/parenthesizing made simple
