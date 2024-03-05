@@ -507,7 +507,7 @@
 ## macos 
 
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [miiton/Cica](https://github.com/miiton/Cica) - プログラミング用日本語等幅フォント Cica(シカ)
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
@@ -1040,7 +1040,6 @@
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [piglovesyou/flickGal](https://github.com/piglovesyou/flickGal) - A light weight jQuery plugin for a flick gallery in smart phone.
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
-- [erocpil/ManShow](https://github.com/erocpil/ManShow) - personal vim configuration
 - [sugyan/live-coder](https://github.com/sugyan/live-coder) - web-based live-coding application. powered by node.js, socket.io
 - [1602/compound](https://github.com/1602/compound) - MVC framework. Built on Node.JS. Works on server and browser.
 - [rsepulveda2/Twitter-Mobile](https://github.com/rsepulveda2/Twitter-Mobile) - A web based twitter client using jQuery Mobile and Twitter @anywhere
@@ -1373,7 +1372,7 @@
 
 ## swift 
 
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [YusukeHosonuma/xcode-open](https://github.com/YusukeHosonuma/xcode-open) - Open Xcode in terminal (with specify version)
 
 ## terminal 
