@@ -507,7 +507,6 @@
 ## macos 
 
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.4 is built nightly.
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [miiton/Cica](https://github.com/miiton/Cica) - プログラミング用日本語等幅フォント Cica(シカ)
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
@@ -589,6 +588,7 @@
 - [azu/proof-dictionary](https://github.com/azu/proof-dictionary) - My proof-dictionary
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
@@ -1372,7 +1372,6 @@
 
 ## swift 
 
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [YusukeHosonuma/xcode-open](https://github.com/YusukeHosonuma/xcode-open) - Open Xcode in terminal (with specify version)
 
 ## terminal 
