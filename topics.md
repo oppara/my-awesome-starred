@@ -571,6 +571,7 @@
 
 ## others 
 
+- [bun913/userstory-review-by-bedrock-action](https://github.com/bun913/userstory-review-by-bedrock-action) - 
 - [caztcha/axe-test](https://github.com/caztcha/axe-test) - axe-core を利用して、ウェブサイトのアクセシビリティ自動テストを一括的に実行するためのスクリプトです。Node.js ライブラリ「Puppeteer」と併せて使います。
 - [web-soudan/mw-wp-form](https://github.com/web-soudan/mw-wp-form) - 
 - [tomomano/learn-aws-by-coding](https://github.com/tomomano/learn-aws-by-coding) - コードで学ぶAWS入門
