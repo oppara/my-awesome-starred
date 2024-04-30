@@ -590,7 +590,7 @@
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
 - [fujimura/git-gsub](https://github.com/fujimura/git-gsub) - A Git subcommand to do gsub in a repository
