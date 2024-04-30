@@ -810,7 +810,7 @@
 ## Swift 
 
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [YusukeHosonuma/xcode-open](https://github.com/YusukeHosonuma/xcode-open) - Open Xcode in terminal (with specify version)
 - [mitsuse/swim](https://github.com/mitsuse/swim) - A command line tool to switch the current input method by identifier for macOS.
