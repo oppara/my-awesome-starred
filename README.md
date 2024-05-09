@@ -830,7 +830,7 @@
 - [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [bun913/textlint-rule-aws-service-name](https://github.com/bun913/textlint-rule-aws-service-name) - 
 - [azu/find-node-modules-import](https://github.com/azu/find-node-modules-import) - Find specific node modules import statement in your source code
-- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
+- [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [yo-goto/zenn-public-repo](https://github.com/yo-goto/zenn-public-repo) - Zenn の無料記事用リポジトリ
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 - [shuntaka9576/preview-asciidoc.nvim](https://github.com/shuntaka9576/preview-asciidoc.nvim) - :memo: preview asciidoc in real time!
