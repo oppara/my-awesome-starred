@@ -547,7 +547,7 @@
 ## neovim 
 
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
-- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
+- [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
@@ -1405,7 +1405,7 @@
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
-- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
+- [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 - [mityu/vim-applescript](https://github.com/mityu/vim-applescript) - Vim utility scripts for AppleScript
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
