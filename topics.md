@@ -33,6 +33,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [electron](#electron)
 - [es6](#es6)
 - [firefox](#firefox)
@@ -271,6 +272,12 @@
 
 - [vim-jp/vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) - A project which translate Vim documents into Japanese.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+
+## dotfiles 
+
+- [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+- [januswel/dotfiles](https://github.com/januswel/dotfiles) - software setting files
 
 ## electron 
 
@@ -764,7 +771,6 @@
 - [cho45/KeyCast](https://github.com/cho45/KeyCast) - Record keystroke for screencast
 - [chiastolite/vagrant-itamae](https://github.com/chiastolite/vagrant-itamae) - 
 - [acidlemon/mirage](https://github.com/acidlemon/mirage) - docker front end & reverse proxy for development
-- [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [kawanamiyuu/vagrant-php-mecab](https://github.com/kawanamiyuu/vagrant-php-mecab) - vagrant-php-mecab
 - [ttsuruoka/php-time](https://github.com/ttsuruoka/php-time) - Simple time class for php
 - [k1LoW/holiday_jp](https://github.com/k1LoW/holiday_jp) - [DEPRECATED PROJECT] holiday_jp
@@ -1210,7 +1216,6 @@
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
 - [tj/terminal-table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 - [hnw/phpall](https://github.com/hnw/phpall) - Execute PHP code or PHP script with all PHP version
-- [januswel/dotfiles](https://github.com/januswel/dotfiles) - software setting files
 - [jugyo/termtter](https://github.com/jugyo/termtter) - moved to https://github.com/termtter/termtter
 - [jim/fitzgerald](https://github.com/jim/fitzgerald) - A Tiny PHP framework inspired by Sinatra
 - [jgm/gitit](https://github.com/jgm/gitit) - A wiki using HAppS, pandoc, and git
