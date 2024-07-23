@@ -1163,7 +1163,7 @@
 - [xenoterracide/sql.vim](https://github.com/xenoterracide/sql.vim) - improve coverage of reserved words for sql files
 - [xenoterracide/css.vim](https://github.com/xenoterracide/css.vim) - add css3 and html5 support to css.vim
 - [xenoterracide/html.vim](https://github.com/xenoterracide/html.vim) - adding HTML5 support to vims default html.vim file
-- [tobitailor/gordon](https://github.com/tobitailor/gordon) - An open source Flash™ runtime written in pure JavaScript
+- [tbtlr/gordon](https://github.com/tbtlr/gordon) - An open source Flash™ runtime written in pure JavaScript
 - [alpicola/atomos](https://github.com/alpicola/atomos) - AtomPub based minimal bloging engine
 - [taberareloo/taberareloo](https://github.com/taberareloo/taberareloo) - Yet Another Tombloo on Chromium
 - [canada/PerlDocJp](https://github.com/canada/PerlDocJp) - This Web application let perldoc.jp Japanized pod document browsable and searchable just like search.cpan.org
