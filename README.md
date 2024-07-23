@@ -394,7 +394,7 @@
 - [up/mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [mustardamus/brosho-plugin](https://github.com/mustardamus/brosho-plugin) - Design your Markup in the Browser with this jQuery Plugin.
-- [tobitailor/gordon](https://github.com/tobitailor/gordon) - An open source Flash™ runtime written in pure JavaScript
+- [tbtlr/gordon](https://github.com/tbtlr/gordon) - An open source Flash™ runtime written in pure JavaScript
 - [taberareloo/taberareloo](https://github.com/taberareloo/taberareloo) - Yet Another Tombloo on Chromium
 - [eduardolundgren/jquery-simulate](https://github.com/eduardolundgren/jquery-simulate) - jQuery Simulate is a plugin to simulate browser mouse and keyboard real events
 - [rewish/jQuery.calendar](https://github.com/rewish/jQuery.calendar) - "Simple Calendar" plugin for jQuery.
