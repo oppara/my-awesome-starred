@@ -534,7 +534,7 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
+- [gma/nesta](https://github.com/gma/nesta) - File Based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## mobile 
@@ -1318,7 +1318,7 @@
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [slim-template/slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
+- [gma/nesta](https://github.com/gma/nesta) - File Based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## rust 
@@ -1328,7 +1328,7 @@
 ## sass 
 
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [gma/nesta](https://github.com/gma/nesta) - A file-based CMS and Static Site Generator
+- [gma/nesta](https://github.com/gma/nesta) - File Based CMS and Static Site Generator
 
 ## scala 
 
