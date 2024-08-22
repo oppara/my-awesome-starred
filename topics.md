@@ -17,6 +17,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -179,6 +180,10 @@
 ## c 
 
 - [DQNEO/CppTetris](https://github.com/DQNEO/CppTetris) - Tetris made within an hour
+
+## c-plus-plus 
+
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## chrome 
 
