@@ -1488,6 +1488,7 @@
 
 ## wordpress 
 
+- [Automattic/Rewrite-Rules-Inspector](https://github.com/Automattic/Rewrite-Rules-Inspector) - WordPress plugin to inspect your rewrite rules.
 - [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
 
 ## xcode 
