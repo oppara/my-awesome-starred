@@ -488,6 +488,7 @@
 
 ## PHP 
 
+- [Automattic/Rewrite-Rules-Inspector](https://github.com/Automattic/Rewrite-Rules-Inspector) - WordPress plugin to inspect your rewrite rules.
 - [web-soudan/mw-wp-form](https://github.com/web-soudan/mw-wp-form) - 
 - [snow-actions/php-ast-changed](https://github.com/snow-actions/php-ast-changed) - Check if PHP AST have been changed in a pull request
 - [yheihei/wp-docker-template](https://github.com/yheihei/wp-docker-template) - Dockerを使ったWordPress環境をビルドスクリプト一発で作る
