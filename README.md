@@ -369,6 +369,7 @@
 - [hokaccha/js-zip2address](https://github.com/hokaccha/js-zip2address) - jsで郵便番号から住所検索。google日本語検索使用。
 - [rbiggs/chocolatechip](https://github.com/rbiggs/chocolatechip) - Mobile JavaScript framework for Web app development
 - [westonruter/webforms2](https://github.com/westonruter/webforms2) - Web Forms 2.0 Cross-Browser Implementation
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
@@ -850,7 +851,6 @@
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader like LDR
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
-- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [evmar/webtreemap](https://github.com/evmar/webtreemap) - web-based treemap
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
