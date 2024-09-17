@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
 - [k1LoW/stubin](https://github.com/k1LoW/stubin) - This is stub binary
 - [koki-develop/sheep](https://github.com/koki-develop/sheep) - 🐑 Sleep with Sheep.
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
@@ -416,6 +417,7 @@
 
 ## Lua 
 
+- [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
 
 ## Makefile 
