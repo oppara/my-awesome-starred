@@ -593,6 +593,7 @@
 
 ## others 
 
+- [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [oppara/cakephp-simple-recaptcha](https://github.com/oppara/cakephp-simple-recaptcha) - 
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
 - [bun913/userstory-review-by-bedrock-action](https://github.com/bun913/userstory-review-by-bedrock-action) - 
