@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
 - [k1LoW/stubin](https://github.com/k1LoW/stubin) - This is stub binary
 - [koki-develop/sheep](https://github.com/koki-develop/sheep) - 🐑 Sleep with Sheep.
