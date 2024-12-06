@@ -106,6 +106,7 @@
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
 - [vim](#vim)
+- [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
@@ -834,7 +835,6 @@
 - [dirkgroenen/SVGMagic](https://github.com/dirkgroenen/SVGMagic) - Fallback for SVG images by automatically creating PNG versions on-the-fly
 - [msng/spacer.gif](https://github.com/msng/spacer.gif) - Offering a spacer.gif
 - [hnakamur/my-packer-template-files](https://github.com/hnakamur/my-packer-template-files) - This project is deprecated. Now I use boxes by https://github.com/boxcutter
-- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [hotchpotch/advent-calendar2readlists](https://github.com/hotchpotch/advent-calendar2readlists) - 
 - [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Front-end Tooling Book
 - [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - inline issue manager
@@ -1458,6 +1458,10 @@
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+
+## vpn 
+
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 
 ## vue 
 
