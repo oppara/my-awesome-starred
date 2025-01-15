@@ -203,7 +203,7 @@
 ## cli 
 
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
-- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -352,7 +352,7 @@
 - [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
-- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -1253,7 +1253,7 @@
 
 ## package-manager 
 
-- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 
 ## perl 
