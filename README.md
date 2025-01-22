@@ -152,7 +152,7 @@
 - [sugyan/ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
