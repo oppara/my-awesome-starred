@@ -134,7 +134,7 @@
 - [shiimaxx/alfred-gitlab-workflow](https://github.com/shiimaxx/alfred-gitlab-workflow) - Alfred Workflow for search of your gitlab repositories written in Golang
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
-- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/blog](https://github.com/babarot/blog) - ✍ Makes writing blogs easier!
 - [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
