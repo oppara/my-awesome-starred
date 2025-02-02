@@ -351,7 +351,7 @@
 
 - [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
-- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/blog](https://github.com/babarot/blog) - ✍ Makes writing blogs easier!
 - [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
@@ -365,7 +365,7 @@
 
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
-- [babarot/blog](https://github.com/babarot/blog) - A CLI tool for editing blog built by Hugo
+- [babarot/blog](https://github.com/babarot/blog) - ✍ Makes writing blogs easier!
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
