@@ -742,7 +742,6 @@
 - [jugyo/termtter](https://github.com/jugyo/termtter) - moved to https://github.com/termtter/termtter
 - [gma/nesta](https://github.com/gma/nesta) - File Based CMS and Static Site Generator
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [banyan/config](https://github.com/banyan/config) - config file
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
 
 ## Rust 
@@ -810,6 +809,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [hnw/phpall](https://github.com/hnw/phpall) - Execute PHP code or PHP script with all PHP version
+- [banyan/config](https://github.com/banyan/config) - config file
 - [cooldaemon/dotfiles](https://github.com/cooldaemon/dotfiles) - It's files put on my home directory.
 
 ## Swift 
