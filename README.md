@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
 - [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
 - [k1LoW/stubin](https://github.com/k1LoW/stubin) - This is stub binary
