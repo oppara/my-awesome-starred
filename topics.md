@@ -592,6 +592,7 @@
 
 ## others 
 
+- [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
 - [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [oppara/cakephp-simple-recaptcha](https://github.com/oppara/cakephp-simple-recaptcha) - 
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
