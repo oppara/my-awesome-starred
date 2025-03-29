@@ -442,7 +442,7 @@
 - [davbeck/iPhone-Simulator-Capture](https://github.com/davbeck/iPhone-Simulator-Capture) - Records video screen captures of the iPhone simulator
 - [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver) - Quicksilver Project Source
 - [Nyoho/TerminalEastAsianAmbiguousClearer](https://github.com/Nyoho/TerminalEastAsianAmbiguousClearer) - A SIMBL plugin that makes "the East Asian Ambiguous Character Width" clear
-- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [niw/terminal_coloreopard](https://github.com/niw/terminal_coloreopard) - Change Terminal.app ANSI Color on Leopard
 - [rentzsch/clicktoflash](https://github.com/rentzsch/clicktoflash) - WebKit plug-in to prevent automatic loading of Adobe Flash content
