@@ -31,6 +31,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deno](#deno)
+- [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -265,6 +266,10 @@
 ## deno 
 
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
+
+## development 
+
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 
 ## devops 
 
@@ -592,6 +597,9 @@
 
 ## others 
 
+- [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
+- [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
+- [hanhan1978/phperkaigi2025-pamphlet](https://github.com/hanhan1978/phperkaigi2025-pamphlet) - PHPerKaigi 2025 のパンフレット入稿データです。CSS組版 https://vivliostyle.org/ja/ をつかっています。
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
 - [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [oppara/cakephp-simple-recaptcha](https://github.com/oppara/cakephp-simple-recaptcha) - 
