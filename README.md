@@ -830,6 +830,8 @@
 
 ## TypeScript 
 
+- [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
+- [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
 - [bun913/userstory-review-by-bedrock-action](https://github.com/bun913/userstory-review-by-bedrock-action) - 
 - [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
