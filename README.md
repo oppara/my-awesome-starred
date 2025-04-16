@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -320,7 +321,6 @@
 - [adael/AdaWiki2](https://github.com/adael/AdaWiki2) - Wiki system in CakePHP
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [tcorral/Cutter.js](https://github.com/tcorral/Cutter.js) - Truncate HTML code to limit its length by number of words without losing markup.
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [lrsjng/jquery-fracs](https://github.com/lrsjng/jquery-fracs) - jQuery plugin to determine the visible fractions of HTML elements.
@@ -421,6 +421,10 @@
 
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
+
+## MDX 
+
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
