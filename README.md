@@ -290,7 +290,6 @@
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [creativecouple/jquery-timing](https://github.com/creativecouple/jquery-timing) - a jQuery plugin that provides easy-to-use timing methods to write less and do more.
 - [dionyziz/canvas-tetris](https://github.com/dionyziz/canvas-tetris) - A 2D tetris game in HTML5 canvas
-- [paulmillr/ostio](https://github.com/paulmillr/ostio) - Your open-source talks place.
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
 - [10bestdesign/jqvmap](https://github.com/10bestdesign/jqvmap) - jQuery Vector Map Library
 - [ryhan/fixie](https://github.com/ryhan/fixie) - Automatically add filler content to HTML documents based on semantic tags.
