@@ -573,6 +573,7 @@
 
 ## neovim 
 
+- [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
@@ -598,7 +599,6 @@
 ## others 
 
 - [oppara/docker-centos6-apache-php4](https://github.com/oppara/docker-centos6-apache-php4) - 
-- [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
 - [hanhan1978/phperkaigi2025-pamphlet](https://github.com/hanhan1978/phperkaigi2025-pamphlet) - PHPerKaigi 2025 のパンフレット入稿データです。CSS組版 https://vivliostyle.org/ja/ をつかっています。
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
@@ -878,7 +878,6 @@
 - [thinca/vim-showtime](https://github.com/thinca/vim-showtime) - It's showtime!
 - [creativecouple/jquery-timing](https://github.com/creativecouple/jquery-timing) - a jQuery plugin that provides easy-to-use timing methods to write less and do more.
 - [dionyziz/canvas-tetris](https://github.com/dionyziz/canvas-tetris) - A 2D tetris game in HTML5 canvas
-- [paulmillr/ostio](https://github.com/paulmillr/ostio) - Your open-source talks place.
 - [stephpy/vim-php-cs-fixer](https://github.com/stephpy/vim-php-cs-fixer) - Use FriendsOfPHP/PHP-CS-Fixer
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
 - [Nikesh/Pie-Menu](https://github.com/Nikesh/Pie-Menu) - Simple configurable Path Menu written in Jquery and CSS3
