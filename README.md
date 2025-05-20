@@ -457,7 +457,6 @@
 
 ## Others 
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [k1LoW/octocovs](https://github.com/k1LoW/octocovs) - Code metrics and badges of my open source projects using octocov central mode
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
@@ -682,6 +681,7 @@
 
 ## Ruby 
 
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
 - [sroegner/codebook](https://github.com/sroegner/codebook) - A minimalistic code sharing plugin for redmine
 - [hibriiiiidge/zenn-app](https://github.com/hibriiiiidge/zenn-app) - 
 - [future-architect/redmine_gitlab_adapter](https://github.com/future-architect/redmine_gitlab_adapter) - 'This is a Gitlab Adapter plugin for Redmine'
