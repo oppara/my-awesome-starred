@@ -84,6 +84,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [productivity](#productivity)
 - [python](#python)
 - [python3](#python3)
 - [rails](#rails)
@@ -598,6 +599,8 @@
 
 ## others 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [oyasumipants/getting-started-with-terraform](https://github.com/oyasumipants/getting-started-with-terraform) - Getting Started with Terraform
 - [oppara/docker-centos6-apache-php4](https://github.com/oppara/docker-centos6-apache-php4) - 
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
 - [hanhan1978/phperkaigi2025-pamphlet](https://github.com/hanhan1978/phperkaigi2025-pamphlet) - PHPerKaigi 2025 のパンフレット入稿データです。CSS組版 https://vivliostyle.org/ja/ をつかっています。
@@ -1305,6 +1308,10 @@
 ## powershell 
 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+## productivity 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## python 
 
