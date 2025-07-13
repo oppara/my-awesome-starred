@@ -423,6 +423,8 @@
 
 ## Lua 
 
+- [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
+- [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
 
