@@ -68,6 +68,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [lua](#lua)
 - [mac](#mac)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -527,6 +528,10 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 
+## lua 
+
+- [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
+
 ## mac 
 
 - [mitsuse/swim](https://github.com/mitsuse/swim) - A command line tool to switch the current input method by identifier for macOS.
@@ -574,6 +579,7 @@
 
 ## neovim 
 
+- [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
@@ -599,6 +605,7 @@
 
 ## others 
 
+- [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [oyasumipants/getting-started-with-terraform](https://github.com/oyasumipants/getting-started-with-terraform) - Getting Started with Terraform
 - [oppara/docker-centos6-apache-php4](https://github.com/oppara/docker-centos6-apache-php4) - 
