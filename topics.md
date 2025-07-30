@@ -32,6 +32,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deno](#deno)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [docker](#docker)
@@ -274,6 +275,10 @@
 ## deno 
 
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
+
+## developer-tools 
+
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## development 
 
