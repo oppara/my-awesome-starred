@@ -389,6 +389,7 @@
 - [infews/keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
 - [zentooo/p5-test-qunit](https://github.com/zentooo/p5-test-qunit) - QUnit hijacker feat. mozrepl
 - [cramforce/streamie](https://github.com/cramforce/streamie) - An extremely hackable full realtime twitter client
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [TooTallNate/nTunes](https://github.com/TooTallNate/nTunes) - A REST (HTTP) API for interacting with iTunes written in NodeJS.
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
@@ -492,7 +493,6 @@
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [naberon/vim-cakehtml](https://github.com/naberon/vim-cakehtml) - cakephp templates syntax
 - [kickstarter/jQuery-SpriteShow](https://github.com/kickstarter/jQuery-SpriteShow) - An awesome slideshow that uses a single sprite.
-- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [chrismetcalf/vim-yankring](https://github.com/chrismetcalf/vim-yankring) - Mirror of yankring.vim
 - [hiromi2424/translate](https://github.com/hiromi2424/translate) - 日本語訳プロジェクト。 Project for translation in japanese.
 - [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
