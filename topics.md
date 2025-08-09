@@ -1065,7 +1065,6 @@
 - [jugyo/earthquake](https://github.com/jugyo/earthquake) - Twitter terminal client with streaming API support.
 - [hotsh/rstat.us](https://github.com/hotsh/rstat.us) - Simple microblogging network based on the ostatus protocol.
 - [tglines/nodrr](https://github.com/tglines/nodrr) - Twitter Clone in Node.js
-- [daytona/chartify](https://github.com/daytona/chartify) - A jQuery plugin that makes Google Charts out of HTML tables.
 - [k1LoW/yalog](https://github.com/k1LoW/yalog) - Yet Another Logger for CakePHP
 - [mattn/node-image-stream](https://github.com/mattn/node-image-stream) - display images from twitter stream
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
