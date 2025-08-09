@@ -354,7 +354,6 @@
 - [cho45/hatena-login-googlechrome-extension](https://github.com/cho45/hatena-login-googlechrome-extension) - 
 - [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 - [tglines/nodrr](https://github.com/tglines/nodrr) - Twitter Clone in Node.js
-- [daytona/chartify](https://github.com/daytona/chartify) - A jQuery plugin that makes Google Charts out of HTML tables.
 - [mattn/node-image-stream](https://github.com/mattn/node-image-stream) - display images from twitter stream
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
