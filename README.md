@@ -423,6 +423,7 @@
 
 ## Lua 
 
+- [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
