@@ -617,6 +617,8 @@
 
 ## others 
 
+- [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) - nvim-smartchr is a single-character expansion plugin for Neovim.
+- [NLKNguyen/cloudformation-syntax.vim](https://github.com/NLKNguyen/cloudformation-syntax.vim) - Amazon AWS Cloudformation Syntax Files for Vim
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
