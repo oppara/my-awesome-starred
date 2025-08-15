@@ -423,6 +423,7 @@
 
 ## Lua 
 
+- [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) - nvim-smartchr is a single-character expansion plugin for Neovim.
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
@@ -877,6 +878,7 @@
 
 ## Vim Script 
 
+- [NLKNguyen/cloudformation-syntax.vim](https://github.com/NLKNguyen/cloudformation-syntax.vim) - Amazon AWS Cloudformation Syntax Files for Vim
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [yaasita/edit-slack.vim](https://github.com/yaasita/edit-slack.vim) - Open slack, like a file
 - [get-me-power/dotvim](https://github.com/get-me-power/dotvim) - my Vim's setting file
