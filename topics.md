@@ -923,7 +923,6 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [hatena/Hatena-Textbook](https://github.com/hatena/Hatena-Textbook) - はてな研修用教科書
 - [kuzuha/Geography_JapanesePrefectures](https://github.com/kuzuha/Geography_JapanesePrefectures) - This module allows you to get information on Japanese Prefectures names. and region.
-- [bae22/prefixer](https://github.com/bae22/prefixer) - Vim plugin to use CSS prefixr (forked from kien's version)
 - [sifue/dotfiles](https://github.com/sifue/dotfiles) - sifue's dotfiles
 - [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim.
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
