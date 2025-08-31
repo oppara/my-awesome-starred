@@ -919,7 +919,6 @@
 - [emonkak/vim-metarw-gist](https://github.com/emonkak/vim-metarw-gist) - Vim plugin: metarw scheme for gist
 - [thinca/vim-showtime](https://github.com/thinca/vim-showtime) - It's showtime!
 - [stephpy/vim-php-cs-fixer](https://github.com/stephpy/vim-php-cs-fixer) - Use FriendsOfPHP/PHP-CS-Fixer
-- [bae22/prefixer](https://github.com/bae22/prefixer) - Vim plugin to use CSS prefixr (forked from kien's version)
 - [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim.
 - [yuratomo/w3m.vim](https://github.com/yuratomo/w3m.vim) - w3m plugin for vim
 - [choplin/unite-octopress](https://github.com/choplin/unite-octopress) - 
