@@ -509,7 +509,7 @@
 
 ## jquery 
 
-- [benpickles/peity](https://github.com/benpickles/peity) - Progressive &lt;svg&gt; pie, donut, bar and line charts
+- [benpickles/peity](https://github.com/benpickles/peity) - 🍰 Progressive &lt;svg&gt; pie, donut, bar and line charts
 
 ## json 
 
