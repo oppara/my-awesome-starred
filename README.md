@@ -199,7 +199,7 @@
 - [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
 - [remy/html5demos](https://github.com/remy/html5demos) - Collection of hacks and demos showing capability of HTML5 apps
-- [benpickles/peity](https://github.com/benpickles/peity) - Progressive &lt;svg&gt; pie, donut, bar and line charts
+- [benpickles/peity](https://github.com/benpickles/peity) - 🍰 Progressive &lt;svg&gt; pie, donut, bar and line charts
 - [hail2u/jquery.query-yql](https://github.com/hail2u/jquery.query-yql) - Query YQL simply.
 - [binaryage/visor](https://github.com/binaryage/visor) - Quake-style terminal for MacOS X (Terminal.app plugin)
 
