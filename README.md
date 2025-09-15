@@ -306,7 +306,7 @@
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [JoelBesada/scrollpath](https://github.com/JoelBesada/scrollpath) - A plugin for defining custom scroll paths.
 - [aike/webaudiosynth](https://github.com/aike/webaudiosynth) - Synthesizer application written in JavaScript using Web Audio API.
-- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED - This plugin allows you to create a web page with multiple fixed panels that unroll with an amusing effect.
+- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED. This plugin allows you to create a web page with multiple fixed panels that unfold with an amusing effect.
 - [Arcticjs/Arctic.js](https://github.com/Arcticjs/Arctic.js) - HTML5 game framework
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [tonylukasavage/pathmenu.js](https://github.com/tonylukasavage/pathmenu.js) - Path menu interface for Appcelerator Titanium
