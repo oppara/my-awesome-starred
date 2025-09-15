@@ -948,7 +948,7 @@
 - [yuki-kimoto/Test-ModuleVersion](https://github.com/yuki-kimoto/Test-ModuleVersion) - Create module version check script
 - [akiyan/vim-textobj-php](https://github.com/akiyan/vim-textobj-php) - 
 - [aike/webaudiosynth](https://github.com/aike/webaudiosynth) - Synthesizer application written in JavaScript using Web Audio API.
-- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED - This plugin allows you to create a web page with multiple fixed panels that unroll with an amusing effect.
+- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED. This plugin allows you to create a web page with multiple fixed panels that unfold with an amusing effect.
 - [hail2u/normalize.scss](https://github.com/hail2u/normalize.scss) - Modularized and Sassy normalize.css
 - [Arcticjs/Arctic.js](https://github.com/Arcticjs/Arctic.js) - HTML5 game framework
 - [applidium/Vim](https://github.com/applidium/Vim) - Port of the Vim text editor to the iOS
