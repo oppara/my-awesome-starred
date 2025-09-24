@@ -218,6 +218,7 @@
 
 ## JavaScript 
 
+- [azu/simple-oidc-example-package](https://github.com/azu/simple-oidc-example-package) - An OIDC example
 - [caztcha/axe-test](https://github.com/caztcha/axe-test) - axe-core を利用して、ウェブサイトのアクセシビリティ自動テストを一括的に実行するためのスクリプトです。Node.js ライブラリ「Puppeteer」と併せて使います。
 - [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [fukayatsu/lttm-crx](https://github.com/fukayatsu/lttm-crx) - Makes it easy to add a funny image to a comment.
