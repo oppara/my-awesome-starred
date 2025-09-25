@@ -843,7 +843,7 @@
 
 ## TypeScript 
 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
 - [bun913/userstory-review-by-bedrock-action](https://github.com/bun913/userstory-review-by-bedrock-action) - 
