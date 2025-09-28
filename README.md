@@ -690,7 +690,7 @@
 
 ## Ruby 
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly :beer:
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.5 and PHP 8.6 are built nightly :beer:
 - [sroegner/codebook](https://github.com/sroegner/codebook) - A minimalistic code sharing plugin for redmine
 - [hibriiiiidge/zenn-app](https://github.com/hibriiiiidge/zenn-app) - 
 - [future-architect/redmine_gitlab_adapter](https://github.com/future-architect/redmine_gitlab_adapter) - 'This is a Gitlab Adapter plugin for Redmine'
