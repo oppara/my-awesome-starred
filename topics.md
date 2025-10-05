@@ -112,6 +112,7 @@
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -405,7 +406,6 @@
 ## hacktoberfest 
 
 - [k1LoW/stubin](https://github.com/k1LoW/stubin) - This is stub binary
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
@@ -731,7 +731,6 @@
 - [hanhan1978/docker-laravel55-skelton](https://github.com/hanhan1978/docker-laravel55-skelton) - 
 - [zionboogie/wordpress-minimum](https://github.com/zionboogie/wordpress-minimum) - 
 - [inc2734/mw-wp-form](https://github.com/inc2734/mw-wp-form) - 
-- [a-know/Pixela](https://github.com/a-know/Pixela) - A service for generating GitHub-like graphs. Record and Track your habits or effort. All by API.
 - [yasutomog/book-management-pwa-onsenui-vue](https://github.com/yasutomog/book-management-pwa-onsenui-vue) - 
 - [rosylilly/git-hook](https://github.com/rosylilly/git-hook) - git-hook is very eazy git's hook management tool.
 - [kunit/cakephp-advent-calendar-2017-sample](https://github.com/kunit/cakephp-advent-calendar-2017-sample) - CakePHP Advent Calendar 2017 で使用したサンプル
@@ -1498,6 +1497,11 @@
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+
+## visualization 
+
+- [a-know/Pixela](https://github.com/a-know/Pixela) - A service for generating GitHub-like graphs. Record and Track your habits or effort. All by API.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## vpn 
 
