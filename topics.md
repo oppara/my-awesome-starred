@@ -1067,7 +1067,6 @@
 - [cho45/hatena-login-googlechrome-extension](https://github.com/cho45/hatena-login-googlechrome-extension) - 
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
-- [sgk/tepco-usage-api](https://github.com/sgk/tepco-usage-api) - Tepco power usage API
 - [BigZaphod/Chameleon](https://github.com/BigZaphod/Chameleon) - Chameleon is a port of Apple's UIKit for iOS (and some minimal related frameworks) to Mac OS X.
 - [jugyo/earthquake](https://github.com/jugyo/earthquake) - Twitter terminal client with streaming API support.
 - [hotsh/rstat.us](https://github.com/hotsh/rstat.us) - Simple microblogging network based on the ostatus protocol.
