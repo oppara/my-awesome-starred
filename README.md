@@ -678,7 +678,6 @@
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
 - [joker1007/wcnavi](https://github.com/joker1007/wcnavi) - トイレの場所をナビゲートする。
 - [driverdan/dropship](https://github.com/driverdan/dropship) - Instantly transfer files between Dropbox accounts using only their hashes.
-- [sgk/tepco-usage-api](https://github.com/sgk/tepco-usage-api) - Tepco power usage API
 - [ScrumDoLLC/ScrumDo](https://github.com/ScrumDoLLC/ScrumDo) - ScrumDo Agile Story Tracking Website
 - [Mikiya/Trivial-Hatena-Bookmark-Entrylist-Booster](https://github.com/Mikiya/Trivial-Hatena-Bookmark-Entrylist-Booster) - 
 - [nakamuray/blikit](https://github.com/nakamuray/blikit) - blikit is web based git repository browser, document viewer or something like it.
