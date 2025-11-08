@@ -72,7 +72,6 @@
 ## C++ 
 
 - [DQNEO/CppTetris](https://github.com/DQNEO/CppTetris) - Tetris made within an hour
-- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [yfuruyama/YetAnotherHHKBController](https://github.com/yfuruyama/YetAnotherHHKBController) - Yet another controller for Happy Hacking Keyboard Professional2
 - [DeNA/HandlerSocket-Plugin-for-MySQL](https://github.com/DeNA/HandlerSocket-Plugin-for-MySQL) - HandlerSocket is a NoSQL plugin for MySQL, working as a daemon inside the mysqld process, to accept tcp connections, and execute requests from clients. HandlerSocket does not support SQL queries; inst
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -659,6 +658,7 @@
 ## PowerShell 
 
 - [intercept6/packer-winsrv2016-on-aws](https://github.com/intercept6/packer-winsrv2016-on-aws) - Windows Server 2016 に Active Directory をインストールしたAMIを作成する
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## Python 
 
