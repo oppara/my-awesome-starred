@@ -139,7 +139,7 @@
 - [shiimaxx/glr](https://github.com/shiimaxx/glr) - CLI tool for creating GitLab Release
 - [shiimaxx/glch](https://github.com/shiimaxx/glch) - CLI tool for generating changelog based on GitLab Merge Request
 - [babarot/blog](https://github.com/babarot/blog) - ✍ Makes writing blogs easier!
-- [babarot/afx](https://github.com/babarot/afx) - 📦 Package manager to provide declaretive way to manage CLI commands and shell plugins as code.
+- [babarot/afx](https://github.com/babarot/afx) - An alternative, fast package manager for plugins and executable commands
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
 - [k1LoW/gh-grep](https://github.com/k1LoW/gh-grep) - :octocat: Print lines matching a pattern in repositories using GitHub API
@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [azu/simple-oidc-example-package](https://github.com/azu/simple-oidc-example-package) - An OIDC example
 - [caztcha/axe-test](https://github.com/caztcha/axe-test) - axe-core を利用して、ウェブサイトのアクセシビリティ自動テストを一括的に実行するためのスクリプトです。Node.js ライブラリ「Puppeteer」と併せて使います。
 - [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
