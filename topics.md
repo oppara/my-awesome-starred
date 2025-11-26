@@ -51,6 +51,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -402,6 +403,10 @@
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
+
+## gui 
+
+- [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
 
 ## hacktoberfest 
 
