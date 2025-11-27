@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [api](#api)
@@ -25,6 +26,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [command-line](#command-line)
 - [continuous-integration](#continuous-integration)
 - [crawler](#crawler)
 - [csharp](#csharp)
@@ -125,6 +127,10 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zsh](#zsh)
+
+## algorithms 
+
+- [yusukebe/50-algorithms](https://github.com/yusukebe/50-algorithms) - プログラマの面接で聞かれるらしい50個のアルゴリズム
 
 ## analytics 
 
@@ -240,6 +246,12 @@
 ## coding 
 
 - [mlocati/php-cs-fixer-configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them
+
+## command-line 
+
+- [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 
 ## continuous-integration 
 
@@ -626,6 +638,7 @@
 
 ## others 
 
+- [phpusers-ja/composer](https://github.com/phpusers-ja/composer) - Japanese translation for Composer's Getting Started / readme about translation: https://github.com/phpusers-ja/composer/tree/ja/translations#readme
 - [pieceofcake2/cakephp](https://github.com/pieceofcake2/cakephp) - CakePHP 2.x - Community Maintained Fork
 - [azu/simple-oidc-example-package](https://github.com/azu/simple-oidc-example-package) - An OIDC example
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) - nvim-smartchr is a single-character expansion plugin for Neovim.
