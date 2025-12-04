@@ -835,7 +835,7 @@
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [YusukeHosonuma/xcode-open](https://github.com/YusukeHosonuma/xcode-open) - Open Xcode in terminal (with specify version)
 - [mitsuse/swim](https://github.com/mitsuse/swim) - A command line tool to switch the current input method by identifier for macOS.
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [soffes/WhatColorIsIt](https://github.com/soffes/WhatColorIsIt) - Time of day as a color as a Mac screen saver
 - [cho45/KeyCast](https://github.com/cho45/KeyCast) - Record keystroke for screencast
 
