@@ -230,7 +230,7 @@
 - [arowM/modern-css-for-developers](https://github.com/arowM/modern-css-for-developers) - Modern CSS techniques for developers.
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [jonmagic/copy-excel-paste-markdown](https://github.com/jonmagic/copy-excel-paste-markdown) - Copy a table in Excel (or other spreadsheet programs) and paste it as a Markdown table
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
+- [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [de-teiu/chrome-jinkoushiba](https://github.com/de-teiu/chrome-jinkoushiba) - githubでたくさん草を生やしているように見せかけるchrome拡張機能です.
 - [hidao80/WorkTimeLogger](https://github.com/hidao80/WorkTimeLogger) - Record the task name and time. The tally can be copied in Markdown.
 - [adventar/adventar](https://github.com/adventar/adventar) - For all Adventars!
