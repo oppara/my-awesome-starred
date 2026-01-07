@@ -492,7 +492,7 @@
 ## javascript 
 
 - [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
+- [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [erickzhao/static-html-webpack-boilerplate](https://github.com/erickzhao/static-html-webpack-boilerplate) - 🔮 modern tooling for old-school static webpage development
 - [romainl/ctags-patterns-for-javascript](https://github.com/romainl/ctags-patterns-for-javascript) - Exuberant Ctags Patterns for JavaScript
@@ -629,7 +629,7 @@
 ## nodejs 
 
 - [januswel/node-template](https://github.com/januswel/node-template) - template repo for Node.js project
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
+- [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 
