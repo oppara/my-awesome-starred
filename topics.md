@@ -42,6 +42,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [electron](#electron)
+- [emacs](#emacs)
 - [es6](#es6)
 - [firefox](#firefox)
 - [font](#font)
@@ -329,6 +330,10 @@
 ## electron 
 
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
+
+## emacs 
+
+- [k1LoW/vscode-key-chord](https://github.com/k1LoW/vscode-key-chord) - Map pairs of simultaneously pressed keys to commands for VSCode
 
 ## es6 
 
