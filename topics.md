@@ -116,6 +116,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
@@ -644,7 +645,7 @@
 
 ## others 
 
-- [kiyo-e/p2p-share-files](https://github.com/kiyo-e/p2p-share-files) - 
+- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [smeghead/single-file-unit-test](https://github.com/smeghead/single-file-unit-test) - Single file unit test framework without dependencies.
 - [phpusers-ja/composer](https://github.com/phpusers-ja/composer) - Japanese translation for Composer's Getting Started / readme about translation: https://github.com/phpusers-ja/composer/tree/ja/translations#readme
 - [pieceofcake2/cakephp](https://github.com/pieceofcake2/cakephp) - CakePHP 2.x - Community Maintained Fork
@@ -1490,6 +1491,10 @@
 ## vagrant 
 
 - [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
+
+## video 
+
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
 ## vim 
 
