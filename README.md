@@ -293,7 +293,7 @@
 - [kayac/newbie-training](https://github.com/kayac/newbie-training) - 
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
 - [gsmith85/SeuratJS](https://github.com/gsmith85/SeuratJS) - A Raphaël plugin for creating beautiful pointillized animations.
-- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
+- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
 - [creativecouple/jquery-timing](https://github.com/creativecouple/jquery-timing) - a jQuery plugin that provides easy-to-use timing methods to write less and do more.
 - [dionyziz/canvas-tetris](https://github.com/dionyziz/canvas-tetris) - A 2D tetris game in HTML5 canvas
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
