@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
@@ -31,7 +32,6 @@
 - [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
-- [data](#data)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deno](#deno)
@@ -131,13 +131,17 @@
 - [xml](#xml)
 - [zsh](#zsh)
 
+## ai 
+
+- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
+
 ## algorithms 
 
 - [yusukebe/50-algorithms](https://github.com/yusukebe/50-algorithms) - プログラマの面接で聞かれるらしい50個のアルゴリズム
 
 ## analytics 
 
-- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
+- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
 
 ## android 
 
@@ -282,10 +286,6 @@
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-
-## data 
-
-- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 
 ## data-visualization 
 
