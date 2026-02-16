@@ -651,6 +651,7 @@
 
 ## others 
 
+- [kawamataryo/resume-template](https://github.com/kawamataryo/resume-template) - The Template for resume or C.V.
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [smeghead/single-file-unit-test](https://github.com/smeghead/single-file-unit-test) - Single file unit test framework without dependencies.
 - [phpusers-ja/composer](https://github.com/phpusers-ja/composer) - Japanese translation for Composer's Getting Started / readme about translation: https://github.com/phpusers-ja/composer/tree/ja/translations#readme
