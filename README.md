@@ -130,6 +130,7 @@
 
 ## Go 
 
+- [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
 - [mashiike/aws-cost-anomaly-slack-reactor](https://github.com/mashiike/aws-cost-anomaly-slack-reactor) - 
 - [monochromegane/afa](https://github.com/monochromegane/afa) - AFA is a terminal-friendly AI command.
@@ -848,6 +849,7 @@
 
 ## TypeScript 
 
+- [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [k1LoW/vscode-key-chord](https://github.com/k1LoW/vscode-key-chord) - Map pairs of simultaneously pressed keys to commands for VSCode
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
