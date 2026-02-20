@@ -286,7 +286,7 @@
 - [lodge/lodge](https://github.com/lodge/lodge) - イントラネット内で誰でも構築できる情報共有サービス
 - [hail2u/node-css-mqpacker](https://github.com/hail2u/node-css-mqpacker) - Pack same CSS media query rules into one using PostCSS
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 - [dirkgroenen/SVGMagic](https://github.com/dirkgroenen/SVGMagic) - Fallback for SVG images by automatically creating PNG versions on-the-fly
 - [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Front-end Tooling Book
 - [cloverstudio/Spika-Server](https://github.com/cloverstudio/Spika-Server) - Server backend system for Spika
