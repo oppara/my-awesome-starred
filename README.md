@@ -849,6 +849,7 @@
 
 ## TypeScript 
 
+- [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [k1LoW/vscode-key-chord](https://github.com/k1LoW/vscode-key-chord) - Map pairs of simultaneously pressed keys to commands for VSCode
