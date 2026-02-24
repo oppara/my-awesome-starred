@@ -226,6 +226,7 @@
 
 ## cli 
 
+- [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader
 - [babarot/afx](https://github.com/babarot/afx) - An alternative, fast package manager for plugins and executable commands
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
@@ -303,6 +304,7 @@
 
 ## developer-tools 
 
+- [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## development 
