@@ -667,6 +667,7 @@
 
 ## Python 
 
+- [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 - [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [YoshiiRyo1/aws-cost-saver](https://github.com/YoshiiRyo1/aws-cost-saver) - 
