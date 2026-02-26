@@ -1377,6 +1377,7 @@
 
 ## python 
 
+- [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [rcmdnk/homebrew-file](https://github.com/rcmdnk/homebrew-file) - Brewfile manager for  Homebrew
