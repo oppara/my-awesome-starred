@@ -47,6 +47,7 @@
 ## Astro 
 
 - [vim-jp/ekiden](https://github.com/vim-jp/ekiden) - vim-jp記事執筆企画「駅伝」の管理リポジトリ
+- [burnworks/burnworks-guidelines](https://github.com/burnworks/burnworks-guidelines) - Burnworks Inc. web development guideline.
 
 ## C 
 
@@ -191,7 +192,6 @@
 - [MichinariNukazawa/TofuFont](https://github.com/MichinariNukazawa/TofuFont) - 
 - [nukorou/tenki_electron](https://github.com/nukorou/tenki_electron) - macでtenki.jpの天気をメニューバーに
 - [kohkimakimoto/getcomposer.org_doc_jp](https://github.com/kohkimakimoto/getcomposer.org_doc_jp) - Composerのドキュメント日本語訳
-- [burnworks/burnworks-guidelines](https://github.com/burnworks/burnworks-guidelines) - Burnworks Inc. web development guideline.
 - [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [blueimp/Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
