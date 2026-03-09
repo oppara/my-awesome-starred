@@ -849,6 +849,7 @@
 
 ## TypeScript 
 
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
