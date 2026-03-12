@@ -834,6 +834,7 @@
 
 ## Swift 
 
+- [akaza-im/mac-akaza](https://github.com/akaza-im/mac-akaza) - 
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
