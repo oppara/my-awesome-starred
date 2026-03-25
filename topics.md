@@ -424,7 +424,6 @@
 - [shin1x1/rerun](https://github.com/shin1x1/rerun) - A tool that automatically restart a exited commands
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [a-know/grass-graph](https://github.com/a-know/grass-graph) - PNG Generator of GitHub Public Contribution Graph
-- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
