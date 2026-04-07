@@ -22,6 +22,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
 - [code-quality](#code-quality)
@@ -223,6 +224,11 @@
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [1000ch/pinput](https://github.com/1000ch/pinput) - Light-weight chrome extension for Pinboard.
 - [dai0304/pegmatite](https://github.com/dai0304/pegmatite) - Google Chrome extension that replace PlantUML code blocks into preview images.
+
+## claude-code 
+
+- [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
+- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
 ## cli 
 
@@ -658,7 +664,6 @@
 - [akaza-im/mac-akaza](https://github.com/akaza-im/mac-akaza) - 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
-- [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [kawamataryo/resume-template](https://github.com/kawamataryo/resume-template) - The Template for resume or C.V.
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [smeghead/single-file-unit-test](https://github.com/smeghead/single-file-unit-test) - Single file unit test framework without dependencies.
