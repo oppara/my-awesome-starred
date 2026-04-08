@@ -1330,7 +1330,6 @@
 - [ujihisa/quickrun](https://github.com/ujihisa/quickrun) - quick vim quick
 - [yob/pdf-reader](https://github.com/yob/pdf-reader) - The PDF::Reader library implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
 - [kana/vim-flymake](https://github.com/kana/vim-flymake) - My own version of flymake.vim originally written by Daisuke Ikegami
-- [cooldaemon/dotfiles](https://github.com/cooldaemon/dotfiles) - It's files put on my home directory.
 - [motemen/git-vim](https://github.com/motemen/git-vim) - My vim files for Git
 
 ## package-manager 
