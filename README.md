@@ -832,7 +832,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [hnw/phpall](https://github.com/hnw/phpall) - Execute PHP code or PHP script with all PHP version
-- [cooldaemon/dotfiles](https://github.com/cooldaemon/dotfiles) - It's files put on my home directory.
 
 ## Swift 
 
