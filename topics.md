@@ -56,6 +56,7 @@
 - [go](#go)
 - [golang](#golang)
 - [gui](#gui)
+- [hack](#hack)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -437,6 +438,10 @@
 ## gui 
 
 - [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
+
+## hack 
+
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## hacktoberfest 
 
