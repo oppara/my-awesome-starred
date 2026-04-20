@@ -471,6 +471,7 @@
 
 ## Others 
 
+- [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
 - [k1LoW/octocovs](https://github.com/k1LoW/octocovs) - Code metrics and badges of my open source projects using octocov central mode
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
