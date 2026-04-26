@@ -788,6 +788,7 @@
 
 ## Shell 
 
+- [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 - [lunarxlark/aws-cfn-snippet.vim](https://github.com/lunarxlark/aws-cfn-snippet.vim) - make vim snippets of AWS CloudFormation from official cfn's docs
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
