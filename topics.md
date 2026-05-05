@@ -308,6 +308,7 @@
 
 ## deno 
 
+- [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [skanehira/command.vim](https://github.com/skanehira/command.vim) - Execute shell commands in terminal
 
 ## developer-tools 
@@ -336,6 +337,8 @@
 
 ## dotfiles 
 
+- [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
+- [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [januswel/dotfiles](https://github.com/januswel/dotfiles) - software setting files
@@ -639,6 +642,7 @@
 
 ## neovim 
 
+- [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
@@ -665,6 +669,8 @@
 
 ## others 
 
+- [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker) - A fuzzy file picker in a tmux popup for selecting files with terminal-based AI coding assistants
+- [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
@@ -1508,6 +1514,7 @@
 
 ## typescript 
 
+- [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [januswel/node-template](https://github.com/januswel/node-template) - template repo for Node.js project
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 
@@ -1525,6 +1532,7 @@
 
 ## vim 
 
+- [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [skanehira/denops-docker.vim](https://github.com/skanehira/denops-docker.vim) - Manage Docker in Vim/Neovim
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
@@ -1620,6 +1628,8 @@
 
 ## zsh 
 
+- [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
+- [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
 - [k1LoW/execop](https://github.com/k1LoW/execop) - ExeCop is a checker that check commands and environment variables before execute command.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
