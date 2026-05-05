@@ -427,6 +427,8 @@
 
 ## Lua 
 
+- [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
+- [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) - nvim-smartchr is a single-character expansion plugin for Neovim.
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
@@ -471,6 +473,7 @@
 
 ## Others 
 
+- [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
 - [k1LoW/octocovs](https://github.com/k1LoW/octocovs) - Code metrics and badges of my open source projects using octocov central mode
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
@@ -788,6 +791,7 @@
 
 ## Shell 
 
+- [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker) - A fuzzy file picker in a tmux popup for selecting files with terminal-based AI coding assistants
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 - [lunarxlark/aws-cfn-snippet.vim](https://github.com/lunarxlark/aws-cfn-snippet.vim) - make vim snippets of AWS CloudFormation from official cfn's docs
@@ -853,6 +857,7 @@
 
 ## TypeScript 
 
+- [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
