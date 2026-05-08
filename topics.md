@@ -593,6 +593,7 @@
 
 ## lua 
 
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 
 ## mac 
@@ -642,6 +643,7 @@
 
 ## neovim 
 
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
@@ -992,7 +994,7 @@
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [opauth/opauth](https://github.com/opauth/opauth) - Multi-provider authentication framework for PHP
 - [Sybio/ImageWorkshop](https://github.com/Sybio/ImageWorkshop) - ImageWorkshop is a PHP5.3+ library that helps you to manage images based on GD library
-- [erskinedesign/ed.gridpak](https://github.com/erskinedesign/ed.gridpak) - The responsive grid generator.
+- [erskinelabs/ed.gridpak](https://github.com/erskinelabs/ed.gridpak) - The responsive grid generator.
 - [choplin/unite-octopress](https://github.com/choplin/unite-octopress) - 
 - [KLab/iPhoroidUI](https://github.com/KLab/iPhoroidUI) - KLab iPhoroid UI Library
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
