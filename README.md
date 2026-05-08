@@ -86,7 +86,7 @@
 - [harasou/slides](https://github.com/harasou/slides) - 
 - [Nikesh/Pie-Menu](https://github.com/Nikesh/Pie-Menu) - Simple configurable Path Menu written in Jquery and CSS3
 - [freshtilledsoil/champagne](https://github.com/freshtilledsoil/champagne) - A jQuery plugin to randomize the display of objects in a grid
-- [erskinedesign/ed.gridpak](https://github.com/erskinedesign/ed.gridpak) - The responsive grid generator.
+- [erskinelabs/ed.gridpak](https://github.com/erskinelabs/ed.gridpak) - The responsive grid generator.
 - [jondot/graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [mquan/lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image
 - [commadelimited/jQuery-Mobile-Bootstrap-Theme](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme) - A jQuery Mobile theme based on Bootstrap
@@ -427,6 +427,7 @@
 
 ## Lua 
 
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
