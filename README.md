@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
