@@ -613,6 +613,7 @@
 
 ## markdown 
 
+- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview.
 - [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
