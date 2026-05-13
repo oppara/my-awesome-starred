@@ -593,7 +593,7 @@
 
 ## lua 
 
-- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 
 ## mac 
@@ -644,7 +644,7 @@
 
 ## neovim 
 
-- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
