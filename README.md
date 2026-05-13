@@ -428,7 +428,7 @@
 
 ## Lua 
 
-- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin that integrates Claude AI through the Agent SDK
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
