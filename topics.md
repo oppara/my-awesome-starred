@@ -417,6 +417,7 @@
 - [skanehira/slack-reminder](https://github.com/skanehira/slack-reminder) - Slack remind generator
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -434,6 +435,7 @@
 - [shin1x1/rerun](https://github.com/shin1x1/rerun) - A tool that automatically restart a exited commands
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [a-know/grass-graph](https://github.com/a-know/grass-graph) - PNG Generator of GitHub Public Contribution Graph
+- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
@@ -557,6 +559,7 @@
 ## json 
 
 - [yusukebe/rj](https://github.com/yusukebe/rj) - CLI for printing HTTP Response as JSON.
+- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [mojolicious/mojo](https://github.com/mojolicious/mojo) - :sparkles: Mojolicious - Perl real-time web framework
 
@@ -821,7 +824,6 @@
 - [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist) - フロントエンドチェックリスト日本語訳
 - [kaz29/serverless-azure-functions](https://github.com/kaz29/serverless-azure-functions) - Serverless Azure Functions Plugin – Add Azure Functions support to the Serverless Framework
 - [shin1x1/phpcon2017](https://github.com/shin1x1/phpcon2017) - 
-- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
 - [ko1/rubyhackchallenge](https://github.com/ko1/rubyhackchallenge) - 
 - [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader like LDR
 - [okkez/redmine_full_text_search-benchmark](https://github.com/okkez/redmine_full_text_search-benchmark) - 
@@ -1190,7 +1192,7 @@
 - [rbiggs/chocolatechip](https://github.com/rbiggs/chocolatechip) - Mobile JavaScript framework for Web app development
 - [westonruter/webforms2](https://github.com/westonruter/webforms2) - Web Forms 2.0 Cross-Browser Implementation
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [sile/igo-gae](https://github.com/sile/igo-gae) - Igo on Google App Engine
