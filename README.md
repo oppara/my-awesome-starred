@@ -162,7 +162,7 @@
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - 
+- [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
 - [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
@@ -382,7 +382,7 @@
 - [rbiggs/chocolatechip](https://github.com/rbiggs/chocolatechip) - Mobile JavaScript framework for Web app development
 - [westonruter/webforms2](https://github.com/westonruter/webforms2) - Web Forms 2.0 Cross-Browser Implementation
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [substance/substance-legacy](https://github.com/substance/substance-legacy) - Towards open digital publishing
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [mozilla/doctorjs](https://github.com/mozilla/doctorjs) - A set of static analysis tools for JavaScript
