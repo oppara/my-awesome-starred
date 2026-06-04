@@ -237,7 +237,6 @@
 - [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [de-teiu/chrome-jinkoushiba](https://github.com/de-teiu/chrome-jinkoushiba) - githubでたくさん草を生やしているように見せかけるchrome拡張機能です.
 - [hidao80/WorkTimeLogger](https://github.com/hidao80/WorkTimeLogger) - Record the task name and time. The tally can be copied in Markdown.
-- [adventar/adventar](https://github.com/adventar/adventar) - For all Adventars!
 - [narikei/Charger-Information-for-Mac](https://github.com/narikei/Charger-Information-for-Mac) - 
 - [akameco/twada-stand](https://github.com/akameco/twada-stand) - テストを書いてない書いてない人の前に例のスタンドが現れます
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
