@@ -770,7 +770,6 @@
 - [amotz/actions-python-sample](https://github.com/amotz/actions-python-sample) - GitHub Actionを利用したAWS Lambda（Python）のCI/CDサンプル
 - [sinofseven/lambda-runtime-tweeter-lambda](https://github.com/sinofseven/lambda-runtime-tweeter-lambda) - 
 - [pypypyo14/defaultvpc-tag](https://github.com/pypypyo14/defaultvpc-tag) - AWSアカウント作成時にデフォルトで存在するリソースにタグ付け(`{isDefault: true}`)するスクリプト
-- [adventar/adventar](https://github.com/adventar/adventar) - For all Adventars!
 - [aokazu/cakephp3_core_layer_pattern](https://github.com/aokazu/cakephp3_core_layer_pattern) - Example of applying core layer pattern to CakePHP3
 - [nojimage/cakephp-cron-jobs](https://github.com/nojimage/cakephp-cron-jobs) - A cron job runner for CakePHP
 - [ot-nemoto/ses-forwarder](https://github.com/ot-nemoto/ses-forwarder) - :frog: SESで受信したメールを転送するサービス
