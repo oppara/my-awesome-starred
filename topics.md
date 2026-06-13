@@ -694,7 +694,7 @@
 - [NLKNguyen/cloudformation-syntax.vim](https://github.com/NLKNguyen/cloudformation-syntax.vim) - Amazon AWS Cloudformation Syntax Files for Vim
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [oyasumipants/getting-started-with-terraform](https://github.com/oyasumipants/getting-started-with-terraform) - Getting Started with Terraform
 - [oppara/docker-centos6-apache-php4](https://github.com/oppara/docker-centos6-apache-php4) - 
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
