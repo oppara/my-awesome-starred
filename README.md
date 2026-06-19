@@ -131,7 +131,6 @@
 
 ## Go 
 
-- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
@@ -860,6 +859,7 @@
 
 ## TypeScript 
 
+- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
