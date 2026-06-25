@@ -473,6 +473,7 @@
 
 ## Others 
 
+- [sho-ai-magic/slide.md](https://github.com/sho-ai-magic/slide.md) - 
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
 - [k1LoW/octocovs](https://github.com/k1LoW/octocovs) - Code metrics and badges of my open source projects using octocov central mode
