@@ -676,6 +676,8 @@
 
 ## others 
 
+- [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) - 日本語の文章からAI臭を取り除く Claude Skill
+- [sho-ai-magic/slide.md](https://github.com/sho-ai-magic/slide.md) - 
 - [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker) - A fuzzy file picker in a tmux popup for selecting files with terminal-based AI coding assistants
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
