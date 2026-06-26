@@ -473,6 +473,7 @@
 
 ## Others 
 
+- [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) - 日本語の文章からAI臭を取り除く Claude Skill
 - [sho-ai-magic/slide.md](https://github.com/sho-ai-magic/slide.md) - 
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
