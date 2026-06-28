@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [ai](#ai)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
@@ -134,6 +135,10 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zsh](#zsh)
+
+## agent-skills 
+
+- [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 
 ## ai 
 
