@@ -23,6 +23,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
@@ -231,6 +232,10 @@
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [1000ch/pinput](https://github.com/1000ch/pinput) - Light-weight chrome extension for Pinboard.
 - [dai0304/pegmatite](https://github.com/dai0304/pegmatite) - Google Chrome extension that replace PlantUML code blocks into preview images.
+
+## claude 
+
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 
 ## claude-code 
 
