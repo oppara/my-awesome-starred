@@ -355,7 +355,6 @@
 - [msmhrt/b4](https://github.com/msmhrt/b4) - This project is deprecated and is no longer being maintained.
 - [StanAngeloff/zoey](https://github.com/StanAngeloff/zoey) - Small, customisable and lightweight framework for developing mobile apps.
 - [cho45/hatena-login-googlechrome-extension](https://github.com/cho45/hatena-login-googlechrome-extension) - 
-- [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 - [tglines/nodrr](https://github.com/tglines/nodrr) - Twitter Clone in Node.js
 - [mattn/node-image-stream](https://github.com/mattn/node-image-stream) - display images from twitter stream
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
@@ -895,6 +894,7 @@
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [emonkak/feedpon](https://github.com/emonkak/feedpon) - A feed reader like LDR
+- [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [evmar/webtreemap](https://github.com/evmar/webtreemap) - web-based treemap
