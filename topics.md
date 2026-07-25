@@ -686,6 +686,8 @@
 
 ## others 
 
+- [maro114510/herdr-toggle-popup](https://github.com/maro114510/herdr-toggle-popup) - One-keybinding overlay popup shell plugin for the Herdr terminal
+- [tomoki10/vscode-cdk-lsp](https://github.com/tomoki10/vscode-cdk-lsp) - 
 - [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) - 日本語の文章からAI臭を取り除く Claude Skill
 - [sho-ai-magic/slide.md](https://github.com/sho-ai-magic/slide.md) - 
 - [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker) - A fuzzy file picker in a tmux popup for selecting files with terminal-based AI coding assistants
