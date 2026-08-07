@@ -686,6 +686,7 @@
 
 ## others 
 
+- [bufferings/shiibar-cc](https://github.com/bufferings/shiibar-cc) - A macOS menu bar app that watches your Claude Code agent sessions running in iTerm2 and lets you jump straight to the right one.
 - [maro114510/herdr-toggle-popup](https://github.com/maro114510/herdr-toggle-popup) - One-keybinding overlay popup shell plugin for the Herdr terminal
 - [tomoki10/vscode-cdk-lsp](https://github.com/tomoki10/vscode-cdk-lsp) - 
 - [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) - 日本語の文章からAI臭を取り除く Claude Skill
