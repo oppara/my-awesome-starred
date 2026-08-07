@@ -845,6 +845,7 @@
 
 ## Swift 
 
+- [bufferings/shiibar-cc](https://github.com/bufferings/shiibar-cc) - A macOS menu bar app that watches your Claude Code agent sessions running in iTerm2 and lets you jump straight to the right one.
 - [akaza-im/mac-akaza](https://github.com/akaza-im/mac-akaza) - 
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
