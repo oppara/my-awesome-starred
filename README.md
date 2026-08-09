@@ -732,7 +732,7 @@
 - [hibariya/reditor](https://github.com/hibariya/reditor) - Open a ruby library with $EDITOR
 - [oscardelben/sheet](https://github.com/oscardelben/sheet) - Text snippets for the command line
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [hotchpotch/advent-calendar2readlists](https://github.com/hotchpotch/advent-calendar2readlists) - 
 - [nhmood/watson-ruby](https://github.com/nhmood/watson-ruby) - inline issue manager
 - [vvchik/vagrant-serverspec](https://github.com/vvchik/vagrant-serverspec) - Vagrant plugin that integrates serverspec
