@@ -695,7 +695,7 @@
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
-- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [akaza-im/mac-akaza](https://github.com/akaza-im/mac-akaza) - 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
