@@ -429,7 +429,7 @@
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
 - [shuntaka9576/dotfiles](https://github.com/shuntaka9576/dotfiles) - :wrench: Dotfiles for Darwin/NixOS, powered by Nix.
-- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) - nvim-smartchr is a single-character expansion plugin for Neovim.
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
