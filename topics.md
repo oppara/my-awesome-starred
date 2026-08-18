@@ -88,6 +88,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [opencv](#opencv)
@@ -139,6 +140,7 @@
 
 ## agent-skills 
 
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 
 ## ai 
@@ -235,10 +237,12 @@
 
 ## claude 
 
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 
 ## claude-code 
 
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
@@ -667,6 +671,10 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+
+## nlp 
+
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 
 ## node 
 
