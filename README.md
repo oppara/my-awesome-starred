@@ -775,6 +775,7 @@
 
 ## Rust 
 
+- [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
