@@ -7,6 +7,7 @@
 
 - [agent-skills](#agent-skills)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
@@ -147,6 +148,10 @@
 
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
 
+## ai-agents 
+
+- [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
+
 ## algorithms 
 
 - [yusukebe/50-algorithms](https://github.com/yusukebe/50-algorithms) - プログラマの面接で聞かれるらしい50個のアルゴリズム
@@ -237,11 +242,13 @@
 
 ## claude 
 
+- [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 
 ## claude-code 
 
+- [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
