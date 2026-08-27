@@ -45,6 +45,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
 - [es6](#es6)
@@ -146,6 +147,7 @@
 
 ## ai 
 
+- [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
 
 ## ai-agents 
@@ -364,6 +366,10 @@
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [januswel/dotfiles](https://github.com/januswel/dotfiles) - software setting files
+
+## education 
+
+- [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 
 ## electron 
 
@@ -614,6 +620,7 @@
 
 ## llm 
 
+- [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
 ## lua 
@@ -1554,6 +1561,7 @@
 
 ## typescript 
 
+- [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [januswel/node-template](https://github.com/januswel/node-template) - template repo for Node.js project
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
