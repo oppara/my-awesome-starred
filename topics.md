@@ -93,6 +93,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [openai](#openai)
 - [opencv](#opencv)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -244,12 +245,14 @@
 
 ## claude 
 
+- [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 
 ## claude-code 
 
+- [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
@@ -701,6 +704,10 @@
 - [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+
+## openai 
+
+- [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 
 ## opencv 
 
