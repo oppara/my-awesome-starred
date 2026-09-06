@@ -280,7 +280,7 @@
 - [rakuten-frontend/grunt-appdmg](https://github.com/rakuten-frontend/grunt-appdmg) - Grunt plugin for generating Mac OS X DMG-images.
 - [moznion/location-util](https://github.com/moznion/location-util) - Utilities of location (URL) for browser and node. It has no dependencies.
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
-- [polygonplanet/encoding.js](https://github.com/polygonplanet/encoding.js) - Convert and detect character encoding in JavaScript
+- [polygonplanet/encoding.js](https://github.com/polygonplanet/encoding.js) - Convert and detect character encodings in JavaScript
 - [mizchi/my-feed-reader](https://github.com/mizchi/my-feed-reader) - 
 - [typpo/ad-detector](https://github.com/typpo/ad-detector) - Detects articles with corporate sponsors.
 - [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
