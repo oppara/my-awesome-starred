@@ -557,7 +557,7 @@
 - [esdoc/esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript
 - [azu/browser-resources](https://github.com/azu/browser-resources) - A Collection of official Resources/Status/Issues for browsers.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [polygonplanet/encoding.js](https://github.com/polygonplanet/encoding.js) - Convert and detect character encoding in JavaScript
+- [polygonplanet/encoding.js](https://github.com/polygonplanet/encoding.js) - Convert and detect character encodings in JavaScript
 - [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
