@@ -132,6 +132,7 @@
 ## Go 
 
 - [maro114510/herdr-toggle-popup](https://github.com/maro114510/herdr-toggle-popup) - One-keybinding overlay popup shell plugin for the Herdr terminal
+- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [k1LoW/roots](https://github.com/k1LoW/roots) - `roots` is a tool for exploring multiple root directories, such as those in a monorepo project.
@@ -867,7 +868,6 @@
 
 - [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [tomoki10/vscode-cdk-lsp](https://github.com/tomoki10/vscode-cdk-lsp) - 
-- [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
