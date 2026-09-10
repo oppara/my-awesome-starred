@@ -866,6 +866,7 @@
 
 ## TypeScript 
 
+- [nekobato/cropanst](https://github.com/nekobato/cropanst) - 黒パンスト
 - [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [tomoki10/vscode-cdk-lsp](https://github.com/tomoki10/vscode-cdk-lsp) - 
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
