@@ -81,6 +81,7 @@
 
 - [kawamataryo/resume-template](https://github.com/kawamataryo/resume-template) - The Template for resume or C.V.
 - [hanhan1978/phperkaigi2025-pamphlet](https://github.com/hanhan1978/phperkaigi2025-pamphlet) - PHPerKaigi 2025 のパンフレット入稿データです。CSS組版 https://vivliostyle.org/ja/ をつかっています。
+- [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
 - [ianrogren/jquery-backDetect](https://github.com/ianrogren/jquery-backDetect) - jQuery backDetect is a jQuery plugin that is used to determine when a user clicks the back button and fire a callback function.
 - [Project-CleverWeb/LastAutoIndex](https://github.com/Project-CleverWeb/LastAutoIndex) - 
 - [harasou/slides](https://github.com/harasou/slides) - 
@@ -681,7 +682,6 @@
 - [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [YoshiiRyo1/aws-cost-saver](https://github.com/YoshiiRyo1/aws-cost-saver) - 
-- [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
 - [amotz/actions-python-sample](https://github.com/amotz/actions-python-sample) - GitHub Actionを利用したAWS Lambda（Python）のCI/CDサンプル
 - [sinofseven/lambda-runtime-tweeter-lambda](https://github.com/sinofseven/lambda-runtime-tweeter-lambda) - 
 - [pypypyo14/defaultvpc-tag](https://github.com/pypypyo14/defaultvpc-tag) - AWSアカウント作成時にデフォルトで存在するリソースにタグ付け(`{isDefault: true}`)するスクリプト
