@@ -143,6 +143,7 @@
 
 ## agent-skills 
 
+- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 
@@ -252,6 +253,7 @@
 
 ## claude-code 
 
+- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
