@@ -7,6 +7,7 @@
 
 - [agent-skills](#agent-skills)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithms](#algorithms)
 - [analytics](#analytics)
@@ -151,6 +152,10 @@
 
 - [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
+
+## ai-agent 
+
+- [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
 ## ai-agents 
 
