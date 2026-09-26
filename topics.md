@@ -144,6 +144,7 @@
 
 ## agent-skills 
 
+- [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
@@ -195,6 +196,7 @@
 
 ## aws 
 
+- [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill
 - [mirumirumi/yourcat-apis](https://github.com/mirumirumi/yourcat-apis) - Repo for back-end of YourCat 🐾
 - [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
@@ -258,6 +260,7 @@
 
 ## claude-code 
 
+- [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
@@ -775,6 +778,7 @@
 - [Olein-jp/wordpress-check-list](https://github.com/Olein-jp/wordpress-check-list) - 
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
+- [mirumirumi/yourcat](https://github.com/mirumirumi/yourcat) - Repo for front-end of YourCat 🐾
 - [k1LoW/ebk](https://github.com/k1LoW/ebk) - ebk is a tiny tool for ebook
 - [YoshiiRyo1/getting-start-docker-for-platformengineer](https://github.com/YoshiiRyo1/getting-start-docker-for-platformengineer) - 
 - [fujimura/git-gsub](https://github.com/fujimura/git-gsub) - A Git subcommand to do gsub in a repository
@@ -1642,7 +1646,6 @@
 
 ## vue 
 
-- [mirumirumi/yourcat](https://github.com/mirumirumi/yourcat) - Repo for front-end of YourCat 🐾
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [GitHub30/vscode-remote-try-nuxt](https://github.com/GitHub30/vscode-remote-try-nuxt) - Nuxt.js sample project for trying out the VS Code Remote - Containers extension
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
