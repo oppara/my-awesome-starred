@@ -475,7 +475,7 @@
 
 ## Others 
 
-- [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill
+- [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill / Claude Code Skill that draws AWS architecture diagrams as draw.io files
 - [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) - 日本語の文章からAI臭を取り除く Claude Skill
 - [sho-ai-magic/slide.md](https://github.com/sho-ai-magic/slide.md) - 
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
