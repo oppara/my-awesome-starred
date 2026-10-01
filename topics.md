@@ -144,6 +144,7 @@
 
 ## agent-skills 
 
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
 - [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill / Claude Code Skill that draws AWS architecture diagrams as draw.io files
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
@@ -156,10 +157,12 @@
 
 ## ai-agent 
 
+- [akkie76/code-review-skills](https://github.com/akkie76/code-review-skills) - Evidence-based code review skills for Codex and Claude Code
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
 ## ai-agents 
 
+- [akkie76/code-review-skills](https://github.com/akkie76/code-review-skills) - Evidence-based code review skills for Codex and Claude Code
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 
 ## algorithms 
@@ -260,6 +263,7 @@
 
 ## claude-code 
 
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
 - [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill / Claude Code Skill that draws AWS architecture diagrams as draw.io files
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
@@ -295,6 +299,7 @@
 
 ## code-review 
 
+- [akkie76/code-review-skills](https://github.com/akkie76/code-review-skills) - Evidence-based code review skills for Codex and Claude Code
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
@@ -633,6 +638,7 @@
 
 ## llm 
 
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
 - [junichikatsu/SocraMetry](https://github.com/junichikatsu/SocraMetry) - デバッグ能力を「鍛える」と「測る」を1つにしたBtoB向けの仕組み。AIは答えではなく段階的な問いを返し、業務を止めずに技術力が育つ。到達度・正答率・成長率を5軸で可視化し、人事評価の客観的な根拠として使える。
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 
@@ -701,6 +707,7 @@
 
 ## nlp 
 
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 
 ## node 
