@@ -678,7 +678,7 @@
 
 ## Python 
 
-- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
+- [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 - [akkie76/code-review-skills](https://github.com/akkie76/code-review-skills) - Evidence-based code review skills for Codex and Claude Code
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
