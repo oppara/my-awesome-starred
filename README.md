@@ -877,7 +877,7 @@
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [suin/opx](https://github.com/suin/opx) - Simpler 1Password CLI. Auto-finds .env, injects secrets.
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
-- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
+- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - P2P file sharing in the browser over WebRTC, with optional E2E encryption. Runs on Cloudflare Workers + Durable Objects.
 - [k1LoW/vscode-key-chord](https://github.com/k1LoW/vscode-key-chord) - Map pairs of simultaneously pressed keys to commands for VSCode
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
