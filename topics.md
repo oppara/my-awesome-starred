@@ -97,6 +97,7 @@
 - [openai](#openai)
 - [opencv](#opencv)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [perl](#perl)
 - [php](#php)
@@ -524,7 +525,7 @@
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
@@ -533,7 +534,7 @@
 ## html5 
 
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 ## http 
@@ -585,7 +586,7 @@
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [qunitjs/qunit](https://github.com/qunitjs/qunit) - 🔮 An easy-to-use JavaScript unit testing framework.
@@ -747,7 +748,6 @@
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
 - [kawamataryo/resume-template](https://github.com/kawamataryo/resume-template) - The Template for resume or C.V.
-- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
 - [smeghead/single-file-unit-test](https://github.com/smeghead/single-file-unit-test) - Single file unit test framework without dependencies.
 - [phpusers-ja/composer](https://github.com/phpusers-ja/composer) - Japanese translation for Composer's Getting Started / readme about translation: https://github.com/phpusers-ja/composer/tree/ja/translations#readme
 - [pieceofcake2/cakephp](https://github.com/pieceofcake2/cakephp) - CakePHP 2.x - Community Maintained Fork
@@ -1413,6 +1413,10 @@
 - [kana/vim-flymake](https://github.com/kana/vim-flymake) - My own version of flymake.vim originally written by Daisuke Ikegami
 - [motemen/git-vim](https://github.com/motemen/git-vim) - My vim files for Git
 
+## p2p 
+
+- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - P2P file sharing in the browser over WebRTC, with optional E2E encryption. Runs on Cloudflare Workers + Durable Objects.
+
 ## package-manager 
 
 - [babarot/afx](https://github.com/babarot/afx) - An alternative, fast package manager for plugins and executable commands
@@ -1490,6 +1494,7 @@
 ## react 
 
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## rest-api 
 
@@ -1563,6 +1568,7 @@
 ## svelte 
 
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## swift 
 
@@ -1602,7 +1608,7 @@
 
 ## video 
 
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## vim 
 
@@ -1656,6 +1662,7 @@
 - [nishinoshake/aws-rough](https://github.com/nishinoshake/aws-rough) - ざっくりAWS
 - [GitHub30/vscode-remote-try-nuxt](https://github.com/GitHub30/vscode-remote-try-nuxt) - Nuxt.js sample project for trying out the VS Code Remote - Containers extension
 - [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## web 
 
