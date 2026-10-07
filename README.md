@@ -401,7 +401,6 @@
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 - [twada/qunit-tap](https://github.com/twada/qunit-tap) - A TAP Output Producer Plugin for QUnit
 - [subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle](https://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle) - TextMate Bundle (tmBundle) for the Appcelerator Titanium Mobile JavaScript API. Includes complete API Code Completion and context sensitive API doc ToolTips. Yes, this is real.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [jaukia/zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
 - [azoff/overscroll](https://github.com/azoff/overscroll) - Touch scrolling for the browser
 - [up/mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
@@ -911,6 +910,7 @@
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [evmar/webtreemap](https://github.com/evmar/webtreemap) - web-based treemap
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [banyan/config](https://github.com/banyan/config) - config file
 
