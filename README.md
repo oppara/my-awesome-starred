@@ -802,6 +802,7 @@
 
 ## Shell 
 
+- [kawarimidoll/ha](https://github.com/kawarimidoll/ha) - Git Worktree Manager
 - [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker) - A fuzzy file picker in a tmux popup for selecting files with terminal-based AI coding assistants
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
