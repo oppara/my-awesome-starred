@@ -15,7 +15,6 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -181,10 +180,6 @@
 - [mattn/jvgrep](https://github.com/mattn/jvgrep) - grep for japanese vimmer
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nicksieger/jsonpretty](https://github.com/nicksieger/jsonpretty) - Command-line JSON pretty-printer
-
-## HCL 
-
-- [oyasumipants/getting-started-with-terraform](https://github.com/oyasumipants/getting-started-with-terraform) - Getting Started with Terraform
 
 ## HTML 
 
