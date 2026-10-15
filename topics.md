@@ -758,7 +758,6 @@
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
-- [oyasumipants/getting-started-with-terraform](https://github.com/oyasumipants/getting-started-with-terraform) - Getting Started with Terraform
 - [oppara/docker-centos6-apache-php4](https://github.com/oppara/docker-centos6-apache-php4) - 
 - [kbwo/vscode-shareedit](https://github.com/kbwo/vscode-shareedit) - 
 - [hanhan1978/phperkaigi2025-pamphlet](https://github.com/hanhan1978/phperkaigi2025-pamphlet) - PHPerKaigi 2025 のパンフレット入稿データです。CSS組版 https://vivliostyle.org/ja/ をつかっています。
