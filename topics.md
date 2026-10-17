@@ -733,6 +733,7 @@
 
 ## others 
 
+- [babarot/claude-recall](https://github.com/babarot/claude-recall) - Recall any past Claude Code session: ask Claude to look into it, or find it yourself and go back to it.
 - [kawarimidoll/ha](https://github.com/kawarimidoll/ha) - Git Worktree Manager
 - [nekobato/cropanst](https://github.com/nekobato/cropanst) - 黒パンスト
 - [bufferings/shiibar-cc](https://github.com/bufferings/shiibar-cc) - A macOS menu bar app that watches your Claude Code agent sessions running in iTerm2 and lets you jump straight to the right one.
