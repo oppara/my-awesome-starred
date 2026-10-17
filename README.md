@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [babarot/claude-recall](https://github.com/babarot/claude-recall) - Recall any past Claude Code session: ask Claude to look into it, or find it yourself and go back to it.
 - [maro114510/herdr-toggle-popup](https://github.com/maro114510/herdr-toggle-popup) - One-keybinding overlay popup shell plugin for the Herdr terminal
 - [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
