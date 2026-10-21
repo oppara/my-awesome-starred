@@ -848,7 +848,6 @@
 - [ikedaosushi/simple-url-copy](https://github.com/ikedaosushi/simple-url-copy) - A Chrome extension that help you to copy URL
 - [motemen/gas-TaskCal](https://github.com/motemen/gas-TaskCal) - 
 - [araj-dev/webpack4-boilerplate-static-separated](https://github.com/araj-dev/webpack4-boilerplate-static-separated) - 
-- [ftngrn/qdmail](https://github.com/ftngrn/qdmail) - Qdmail series. Forked from spok's original library. (Qdmailシリーズのgithub版です。PHP5.6対応).
 - [ginpei/devtools-z-index](https://github.com/ginpei/devtools-z-index) - Stop `z-index: 999999` !!
 - [747/vsselector](https://github.com/747/vsselector) - Variation Selector Selector app (WIP)
 - [marcosesperon/jquery.rowspanizer.js](https://github.com/marcosesperon/jquery.rowspanizer.js) - Dynamic rowspan based on the content of the table
