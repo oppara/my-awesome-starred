@@ -533,7 +533,6 @@
 - [suin/php-cs-fixer-rules](https://github.com/suin/php-cs-fixer-rules) - [READ-ONLY] A Rule set for PHP-CS-Fixer mainly targeting PHP 7.1 or higher.
 - [todays-mitsui/fetch-progress-sample](https://github.com/todays-mitsui/fetch-progress-sample) - 
 - [kijtra/textdiff](https://github.com/kijtra/textdiff) - Simple text diff script
-- [ftngrn/qdmail](https://github.com/ftngrn/qdmail) - Qdmail series. Forked from spok's original library. (Qdmailシリーズのgithub版です。PHP5.6対応).
 - [nojimage/cakephp-time-interval](https://github.com/nojimage/cakephp-time-interval) - Time interval custom type for CakePHP
 - [kaihiro/optimistic-lock](https://github.com/kaihiro/optimistic-lock) - Optimistic Lock for CakePHP3
 - [hanhan1978/docker-laravel55-skelton](https://github.com/hanhan1978/docker-laravel55-skelton) - 
