@@ -703,6 +703,7 @@
 
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) - Neovim plugin for AI-assisted coding: Claude CLI & Codex CLI backends with MCP-powered editor control
 - [izumin5210/dotfiles](https://github.com/izumin5210/dotfiles) - dotfiles for macOS and Codespaces
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
@@ -750,7 +751,6 @@
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
 - [tadashi-aikawa/copilot-plugin-notify](https://github.com/tadashi-aikawa/copilot-plugin-notify) - Copilot CLI hook events are emitted as OSC 777 notification escape sequences; listeners such as cmux can consume these notifications.
 - [okdt/claude-code-hardening-cheatsheet](https://github.com/okdt/claude-code-hardening-cheatsheet) - A minimal, opinionated security hardening template for Claude Code settings.json
-- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [akaza-im/mac-akaza](https://github.com/akaza-im/mac-akaza) - 
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [yamachan0625/ddd-hands-on](https://github.com/yamachan0625/ddd-hands-on) - 
