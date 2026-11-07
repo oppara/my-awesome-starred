@@ -133,6 +133,7 @@
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
@@ -288,7 +289,7 @@
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: Read and edit your GitHub Gists from the terminal
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
@@ -470,7 +471,7 @@
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
-- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: Read and edit your GitHub Gists from the terminal
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -810,7 +811,6 @@
 - [lunarxlark/aws-cfn-snippet.vim](https://github.com/lunarxlark/aws-cfn-snippet.vim) - make vim snippets of AWS CloudFormation from official cfn's docs
 - [gecko655/proofreading-tool](https://github.com/gecko655/proofreading-tool) - GUIで動作する文書校正ツール GUI tool for textlinting.
 - [kazuho/kaztools](https://github.com/kazuho/kaztools) - shellscripts and utilities for myself
-- [cocopon/vscode-iceberg-theme](https://github.com/cocopon/vscode-iceberg-theme) - Dark blue color theme for Visual Studio Code
 - [namosuke/functori](https://github.com/namosuke/functori) - PHP関数名しりとり
 - [tobachi/aws-copilot-sample-service](https://github.com/tobachi/aws-copilot-sample-service) - 
 - [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
@@ -1661,6 +1661,13 @@
 ## vpn 
 
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+
+## vscode 
+
+- [k1LoW/vscode-key-chord](https://github.com/k1LoW/vscode-key-chord) - Map pairs of simultaneously pressed keys to commands for VSCode
+- [kbwo/vim-shareedit](https://github.com/kbwo/vim-shareedit) - Share editor state such as cursor position between (Neo)vim and VSCode
+- [cocopon/vscode-iceberg-theme](https://github.com/cocopon/vscode-iceberg-theme) - Dark blue color theme for Visual Studio Code
+- [GitHub30/vscode-remote-try-nuxt](https://github.com/GitHub30/vscode-remote-try-nuxt) - Nuxt.js sample project for trying out the VS Code Remote - Containers extension
 
 ## vue 
 
