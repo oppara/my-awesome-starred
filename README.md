@@ -165,7 +165,7 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [mattn/go-jsonpointer](https://github.com/mattn/go-jsonpointer) - Go implementation of JSON Pointer (RFC 6901)
 - [kyokomi/excel-to-markdown](https://github.com/kyokomi/excel-to-markdown) - excel to markdown convert tool
-- [babarot/gist](https://github.com/babarot/gist) - :octocat: A simple gist editor for CLI
+- [babarot/gist](https://github.com/babarot/gist) - :octocat: Read and edit your GitHub Gists from the terminal
 - [yuuki/diamondb](https://github.com/yuuki/diamondb) - [WIP] DiamonDB: Rebuild of time series database on AWS.
 - [masutaka/github-nippou](https://github.com/masutaka/github-nippou) - Print today's your GitHub activity for issues and pull requests.
 - [yusukebe/revealgo](https://github.com/yusukebe/revealgo) - Markdown driven presentation tool written in Go!
