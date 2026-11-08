@@ -149,7 +149,7 @@
 
 - [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 - [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill / Claude Code Skill that draws AWS architecture diagrams as draw.io files
-- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
+- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るClaude Codeスキル
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
 
@@ -272,7 +272,7 @@
 
 - [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
 - [sagochiko/aws-drawio-diagram-skill](https://github.com/sagochiko/aws-drawio-diagram-skill) - AWS の構成図を draw.io の形式で描く Claude Code の Skill / Claude Code Skill that draws AWS architecture diagrams as draw.io files
-- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール
+- [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るClaude Codeスキル
 - [shuntaka9576/agentoast](https://github.com/shuntaka9576/agentoast) - 🍞 Toast notifications from AI coding agents on your macOS menu bar, with tmux pane switching
 - [shuntaka9576/chathist](https://github.com/shuntaka9576/chathist) - 📜 A lightweight CLI tool to view and export your AI coding agent's chat history.
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
