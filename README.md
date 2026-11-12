@@ -184,6 +184,7 @@
 
 ## HTML 
 
+- [JPCERTCC/ir_report_checklist](https://github.com/JPCERTCC/ir_report_checklist) - インシデント調査報告書チェックリスト
 - [azu/proof-dictionary](https://github.com/azu/proof-dictionary) - My proof-dictionary
 - [bestmediaplayer/mediaplayer](https://github.com/bestmediaplayer/mediaplayer) - Free Open Source No-Download HTML5 Media Player for Video, Music, Audio, Android, iPhone, FLV, MP4, WEBM
 - [hayatoito/hayatoito.github.io](https://github.com/hayatoito/hayatoito.github.io) - 
@@ -385,7 +386,7 @@
 - [tapmodo/Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop - The Javascript Image Cropping Engine
 - [ivanvanderbyl/ui-progress-bar](https://github.com/ivanvanderbyl/ui-progress-bar) - Pure CSS Progress Bar
 - [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
-- [Doist/JavaScript-memory-leak-checker](https://github.com/Doist/JavaScript-memory-leak-checker) - MemoryLeakChecker can check for data structure memory leaks in JavaScript
+- [todoist/JavaScript-memory-leak-checker](https://github.com/todoist/JavaScript-memory-leak-checker) - MemoryLeakChecker can check for data structure memory leaks in JavaScript
 - [infews/keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
 - [zentooo/p5-test-qunit](https://github.com/zentooo/p5-test-qunit) - QUnit hijacker feat. mozrepl
 - [cramforce/streamie](https://github.com/cramforce/streamie) - An extremely hackable full realtime twitter client
