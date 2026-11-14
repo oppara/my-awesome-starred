@@ -740,6 +740,7 @@
 
 ## others 
 
+- [shi3z/mightyCode](https://github.com/shi3z/mightyCode) - 
 - [babarot/claude-recall](https://github.com/babarot/claude-recall) - Recall any past Claude Code session: ask Claude to look into it, or find it yourself and go back to it.
 - [kawarimidoll/ha](https://github.com/kawarimidoll/ha) - Git Worktree Manager
 - [nekobato/cropanst](https://github.com/nekobato/cropanst) - 黒パンスト
