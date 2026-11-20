@@ -121,6 +121,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [swift](#swift)
 - [terminal](#terminal)
@@ -801,7 +802,6 @@
 - [fumontr/aws-cost-notify-to-slack](https://github.com/fumontr/aws-cost-notify-to-slack) - 
 - [shin1x1/domain-modeling-with-php](https://github.com/shin1x1/domain-modeling-with-php) - 
 - [yaasita/edit-slack.vim](https://github.com/yaasita/edit-slack.vim) - Open slack, like a file
-- [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
 - [sroegner/codebook](https://github.com/sroegner/codebook) - A minimalistic code sharing plugin for redmine
 - [hibriiiiidge/zenn-app](https://github.com/hibriiiiidge/zenn-app) - 
 - [get-me-power/dotvim](https://github.com/get-me-power/dotvim) - my Vim's setting file
@@ -1571,6 +1571,11 @@
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [jbroadway/elefant](https://github.com/jbroadway/elefant) - Elefant, the refreshingly simple PHP CMS and web framework.
+
+## static-site-generator 
+
+- [gma/nesta](https://github.com/gma/nesta) - File Based CMS and Static Site Generator
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## svelte 
 
