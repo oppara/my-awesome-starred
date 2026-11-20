@@ -22,7 +22,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -328,6 +327,7 @@
 - [adael/AdaWiki2](https://github.com/adael/AdaWiki2) - Wiki system in CakePHP
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [tcorral/Cutter.js](https://github.com/tcorral/Cutter.js) - Truncate HTML code to limit its length by number of words without losing markup.
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [lrsjng/jquery-fracs](https://github.com/lrsjng/jquery-fracs) - jQuery plugin to determine the visible fractions of HTML elements.
@@ -434,10 +434,6 @@
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [Hiroya-W/dotfiles](https://github.com/Hiroya-W/dotfiles) - My configrations for Manjaro Linux/macOS
 - [eetann/dotfiles](https://github.com/eetann/dotfiles) - This is a repository for my dotfiles
-
-## MDX 
-
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -679,7 +675,6 @@
 - [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) - Marpで登壇スライドを作るClaude Codeスキル
 - [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
-- [takaakikakei/stepfunctions-error-notify](https://github.com/takaakikakei/stepfunctions-error-notify) - 
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ
 - [YoshiiRyo1/aws-cost-saver](https://github.com/YoshiiRyo1/aws-cost-saver) - 
 - [amotz/actions-python-sample](https://github.com/amotz/actions-python-sample) - GitHub Actionを利用したAWS Lambda（Python）のCI/CDサンプル
