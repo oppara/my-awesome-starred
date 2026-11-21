@@ -400,7 +400,6 @@
 - [subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle](https://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle) - TextMate Bundle (tmBundle) for the Appcelerator Titanium Mobile JavaScript API. Includes complete API Code Completion and context sensitive API doc ToolTips. Yes, this is real.
 - [jaukia/zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
 - [azoff/overscroll](https://github.com/azoff/overscroll) - Touch scrolling for the browser
-- [up/mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [mustardamus/brosho-plugin](https://github.com/mustardamus/brosho-plugin) - Design your Markup in the Browser with this jQuery Plugin.
 - [tbtlr/gordon](https://github.com/tbtlr/gordon) - An open source Flash™ runtime written in pure JavaScript
