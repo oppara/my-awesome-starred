@@ -1332,7 +1332,6 @@
 - [kana/vim-metarw-git](https://github.com/kana/vim-metarw-git) - Vim plugin: metarw scheme for git repository
 - [marutanm/cocoa.vim](https://github.com/marutanm/cocoa.vim) - Vim plugin for Cocoa/Objective-C development.
 - [hokaccha/vim-html5validator](https://github.com/hokaccha/vim-html5validator) - html5 validator vim plugin using validator.nu API.
-- [up/mashi](https://github.com/up/mashi) - JavaScript Timeline Toolkit
 - [nelstrom/vim-blackboard](https://github.com/nelstrom/vim-blackboard) - A port of the Blackboard theme from TextMate to Vim.
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
 - [openid/php4-openid](https://github.com/openid/php4-openid) - OpenID library for PHP4
